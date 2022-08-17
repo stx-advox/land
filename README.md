@@ -9,11 +9,11 @@ header:
   overlay_image: /assets/images/Metaverse.png
   actions:
     - label: "Apply Today"
-      url: "https://discord.gg/Wc3ByFRg"
+      url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
   caption: "Photo credit: [**Stacks**](https://stacks.co)"
 excerpt: "Motivated Community Contributions. Stacking Pool Distribution. Longterm Community Power & Innovation."
 intro: 
-  - excerpt: '***Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX discord!***'
+  - excerpt: '**Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX [discord](https://discord.gg/MFmywhcu3F)!**'
 feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/nfts_landing.png
     alt: "placeholder image 2"
-    title: "NFTs Community"
+    title: "NFTs & Stacks"
     excerpt: "Explore and contribute to the Stacks NFT ecosystem."
     url: "#test-link"
     btn_label: "More"
@@ -39,7 +39,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/defi_landing.png
     alt: "placeholder image 2"
-    title: "STX Defi Community"
+    title: "STX World of Defi"
     excerpt: 'Find out what STX Defi projects and tools have to offer. Stacking, Farming, PoX Mining etc.'
     url: "#test-link"
     btn_label: "More"
@@ -55,7 +55,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/landing_card.png
     alt: "placeholder image 2"
-    title: "Stacking Community"
+    title: "Stacking Ecosystem"
     excerpt: 'Trusted community pools leveraging PoX mining, start your own pool, amplify the tech and more.'
     url: "#test-link"
     btn_label: "More"
