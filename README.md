@@ -13,52 +13,52 @@ header:
   caption: "Photo credit: [**Stacks**](https://stacks.co)"
 excerpt: "Community passion & contributions, stacking pool commons, community power & innovation."
 intro: 
-  - excerpt: 'P2P contributions & evalutaions. Governance & DAO tools all in the official STX discord. Centered with `type="center"`'
+  - excerpt: 'Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX discord!'
 feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Clarity Community"
+    excerpt: "The STX smart contract language. Learn, educate, amplify or build in this innovative & accessible language ecosystem."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/nfts_landing.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "NFTs Community"
+    excerpt: "Explore and contribute to our NFT communities."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/sip_landing.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "SIPs Community"
+    excerpt: "Contribute to the Stacks Improvement Proposal processes."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
     
 feature_row2:
   - image_path: /assets/images/defi_landing.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="right"`'
+    title: "STX Defi Community"
+    excerpt: 'Find out what STX Defi projects and tools have to offer. Stack, Farm, PoX Mining and more.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/stxlogo_landing.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    title: "Grants Community"
+    excerpt: 'Get community support in grant writing & funding for your innovative additions to the ecosystem.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/landing_card.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Stacking Community"
+    excerpt: 'Trusted community pools leveraging PoX mining, start your own pool amplify the tech and more`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More"
     btn_class: "btn--primary"
  
 ---
