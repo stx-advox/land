@@ -11,9 +11,9 @@ header:
     - label: "Apply Today"
       url: "https://discord.gg/Wc3ByFRg"
   caption: "Photo credit: [**Stacks**](https://stacks.co)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Community passion & contributions, stacking pool commons, community power & innovation."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'P2P contributions & evalutaions. Governance & DAO tools all in the official STX discord. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
