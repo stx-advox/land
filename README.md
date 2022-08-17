@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
     title: "Clarity Community"
-    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language ecosystem."
+    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language."
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
@@ -40,7 +40,7 @@ feature_row2:
   - image_path: /assets/images/defi_landing.png
     alt: "placeholder image 2"
     title: "STX Defi Community"
-    excerpt: 'Find out what STX Defi projects and tools have to offer. Stack, Farm, PoX Mining and more.'
+    excerpt: 'Find out what STX Defi projects and tools have to offer. Stacking, Farming, PoX Mining etc.'
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
@@ -56,7 +56,7 @@ feature_row4:
   - image_path: /assets/images/landing_card.png
     alt: "placeholder image 2"
     title: "Stacking Community"
-    excerpt: 'Trusted community pools leveraging PoX mining, start your own pool, amplify the tech and more`'
+    excerpt: 'Trusted community pools leveraging PoX mining, start your own pool, amplify the tech and more.'
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
