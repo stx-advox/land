@@ -18,20 +18,20 @@ feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
     title: "Clarity Community"
-    excerpt: "The STX smart contract language. Learn, educate, amplify or build in this innovative & accessible language ecosystem."
+    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language ecosystem."
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/nfts_landing.png
     alt: "placeholder image 2"
     title: "NFTs Community"
-    excerpt: "Explore and contribute to our NFT communities."
+    excerpt: "Explore and contribute to the Stacks NFT ecosystem."
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/sip_landing.png
     title: "SIPs Community"
-    excerpt: "Contribute to the Stacks Improvement Proposal processes."
+    excerpt: "Contribute and amplify the Stacks Improvement Proposal processes."
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
@@ -48,7 +48,7 @@ feature_row3:
   - image_path: /assets/images/stxlogo_landing.png
     alt: "placeholder image 2"
     title: "Grants Community"
-    excerpt: 'Get community support in grant writing & funding for your innovative additions to the ecosystem.'
+    excerpt: 'Get community support in grant writing & fund for your innovative project.'
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
@@ -56,7 +56,7 @@ feature_row4:
   - image_path: /assets/images/landing_card.png
     alt: "placeholder image 2"
     title: "Stacking Community"
-    excerpt: 'Trusted community pools leveraging PoX mining, start your own pool amplify the tech and more`'
+    excerpt: 'Trusted community pools leveraging PoX mining, start your own pool, amplify the tech and more`'
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
