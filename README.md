@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Apply Today"
       url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
-  caption: "Graphics: [**Stacks**](https://stacks.co)"
+  caption: "Graphics : [**Stacks**](https://stacks.co)"
 excerpt: "Motivated Community Contributions. Stacking Pool Distribution. Longterm Community Power & Innovation."
 intro: 
   - excerpt: '**Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX [discord](https://discord.gg/MFmywhcu3F)!**'
