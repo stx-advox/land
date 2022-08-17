@@ -1,6 +1,6 @@
 ---
 title: "Advox Docs by Tag"
-permalink: /Docs/
+permalink: /docs/
 layout: tags
 author_profile: # true
 ---
