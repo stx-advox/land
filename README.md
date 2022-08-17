@@ -11,9 +11,9 @@ header:
     - label: "Apply Today"
       url: "https://discord.gg/Wc3ByFRg"
   caption: "Photo credit: [**Stacks**](https://stacks.co)"
-excerpt: "Community passion & contributions, stacking pool commons, community power & innovation."
+excerpt: "Motivated Community Contributions. Stacking Pool Distribution. Longterm Community Power & Innovation."
 intro: 
-  - excerpt: 'Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX discord!'
+  - excerpt: '***Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX discord!***'
 feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
