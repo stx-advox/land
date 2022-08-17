@@ -23,7 +23,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/nfts_landing.png
-    image_caption: "Image courtesy of [DaDaArt](https://dada.nyc/home)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -66,7 +65,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
