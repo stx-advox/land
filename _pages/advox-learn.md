@@ -1,6 +1,6 @@
 ---
 title: "AdvoxLEARN"
-layout: splash
+layout: single
 feature_row:
   - image_path: assets/images/beaturtle.png
     alt: "placeholder image 1"
