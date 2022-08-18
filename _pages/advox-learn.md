@@ -82,93 +82,102 @@ Even though not all of us are interested in governance, accessible structures de
 
 As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.
 
-## Dida-thing Clan reactions
+## Dida-thing Clan Reactions
+- Go to the #start-here channel under the Advox DAO category in the official STX discord to get started
+- **The didathing channel** will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
+- The props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
+- **Advox Clan Design** is fluid so we can identify whenever a certain contribution seems to speak to particular clan traits
+- This is important tracking intrinsic motivavtions and leveraging this through out the Advox system design
+- This along with number value weights help us with our P2P evaluations & review
+- We've done an entire overhaul to the SourceCred alogorithm to achieve clear customizable weights
+### Advox Clan Governance 
+- Active Issues is where you’ll find the clans coming into play, see different community governance proposals to learn why the advocates program is the way it is now.
+- But also participate through your clan role, and have your voice heard at the heart of AdvoxDAO decision making processes
+- Clan traits alos play a critical role is our consesnus tools shown below. Leveraging Harvard/Oxford Metagov research group's PolicyKit.
+## Web3GovTools
+- We managed to build PolicyKit interactions right into the discord for users, with the post author’s thread updates being uploaded to PK seamlessly. 
 
-To move over any existing content you'll want to copy the contents of your `_posts` folder to the new site. Along with any pages, collections, data files, images, or other assets you may have.
 
-Next you'll need to convert posts and pages to use the proper layouts and settings. In most cases you simply need to update `_config.yml` to your liking and set the correct `layout` in their YAML Front Matter.
+![](https://paper-attachments.dropbox.com/s_D9C6AB1F126058A4F860A7F8545E04CE86C4CE3483D1C476A433A596927478BD_1648493089424_Hz+Gov.png)
 
-[**Front Matter defaults**](https://jekyllrb.com/docs/configuration/#front-matter-defaults) are your friend and I encourage you to leverage them instead of setting a layout and other global options in each post/page's YAML Front Matter.
+- As a user I should be able to start an issue by posting in [#active-issues](https://paper.dropbox.com/?q=%23active-issues)
+- As a user I should be able to see a help text telling me what the process is gonna be like
+- As a user I should be able to discuss and make edits to the original issue that being the message
+- As a user I should be able to see the last revision of the issue in the [#formal-proposals](https://paper.dropbox.com/?q=%23formal-proposals) channel after the period of discussion expires
+- As a user I should be able to dissent to the formal proposal during the voting period
+- As a user I should be able to know who dissented on a resolution
+- As a non contributor I should be able to dissent even tho my vote does not count
+- As a user I should be able to join the governance process of a specific issue by reacting with 👀
+- As a user I should be able to see if the proposal has passed or failed 
 
-Posts can be configured to use the `single` layout --- with reading time, comments, social sharing links, and related posts enabled. Adding the following to `_config.yml` will set these defaults for all posts:
-
-```yaml
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: true
-      share: true
-      related: true
-```
-
-**Post/Page Settings**: Be sure to read through the "Working with..." documentation to learn about all the options available to you. The theme has been designed to be flexible --- with numerous settings for each.
-{: .notice--info}
-
-## Install dependencies
-
-If this is your first time using Jekyll be sure to read through the [official documentation](https://jekyllrb.com/docs/home/) before jumping in. This guide assumes you have Ruby v2 installed and a basic understanding of how Jekyll works.
-
-To keep your sanity and better manage dependencies I strongly urge you to [install Bundler](http://bundler.io/) with `gem install bundler` and use the following `Gemfile`:
-
-```ruby
-source "https://rubygems.org"
-
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-
-# gem "github-pages", group: :jekyll_plugins
-
-# To upgrade, run `bundle update`.
-
-gem "jekyll"
-gem "minimal-mistakes-jekyll"
-
-# The following plugins are automatically loaded by the theme-gem:
-#   gem "jekyll-paginate"
-#   gem "jekyll-sitemap"
-#   gem "jekyll-gist"
-#   gem "jekyll-feed"
-#   gem "jekyll-include-cache"
-#
-# If you have any other plugins, put them here!
-# Cf. https://jekyllrb.com/docs/plugins/installation/
-group :jekyll_plugins do
-end
-```
-### Clan Governance 
-
-**ProTip:** To be bleeding edge install the latest (unreleased) version of Minimal Mistakes by adding this line to your `Gemfile`: `gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"`.
-{: .notice--info}
-
-## Tools
-
-To maintain a local Jekyll environment in sync with GitHub Pages replace the `gem "jekyll"` line with `gem "github-pages", group: :jekyll_plugins` and run the following:
-
-```bash
-$ bundle install
-```
-
-**Note:** The [GitHub Pages gem](https://github.com/github/pages-gem) installs additional dependencies that may need to be added to your `Gemfile` if you decide to remove the `gem "github-pages"` eg. `jekyll-paginate`, `jekyll-sitemap`, `jekyll-feed`, `jekyll-include-cache`, etc.
-{: .notice--warning}
 ## Distributed Power Model
-<figure>
-  <img src="{{ '/assets/images/mm-bundle-install.gif' | relative_url }}" alt="bundle install in Terminal window">
-</figure>
+# Clan Design + Modular Consensus Tools
+![clantools.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clantools.jpg?raw=true)
 
-Depending on what gems you already have installed you may have to run `bundle update` to clear up any dependency issues. Bundler is usually pretty good at letting you know what gems need updating or have issues installing, to further investigate.
+## Clan Flow: #Active-issues
 
-When using Bundler to manage gems you'll want to run Jekyll using `bundle exec jekyll serve` and `bundle exec jekyll build`.
+use of the #active-issues channel
 
-Doing so executes the gem versions specified in `Gemfile.lock`. Sure you can test your luck with a naked `jekyll serve`, but I wouldn't suggest it. A lot of Jekyll errors originate from outdated or conflicting gems fighting with each other. So do yourself a favor and just use Bundler.
+**Preliminary Consensus**
+
+0 | Picking up issues
+
+Female & Male Wolf representatives or the Wolf sub-representatives pick up issues **deemed relevant** in broader Stacks ecosystem or AdvoxDAO. Particularly issues that are picking up steam in dialogue from multiple parties in the channels.
+
+1 | Autonomous Clan Facilitation
+
+First, Wolf clan reps tag other clans as needed to tend to the issue. All three clans use the #active-issues channels as needed to deliberate the issue, each using autonomous processes. The bottom up quorum period of participation will need to be decided for consensus; real-time meetings for time zones and schedules will need to be initiated where possible or thread dialogue when not possible.
+
+2 | Autonomous Clan Prelims
+
+Two representatives, one female and one male, from each of the 3 clans, come to consensus in autonomous processes before moving to formal consensus, where dialogue will converge. This is critical to sustainability. Through the long term, complex dynamics of our ecosystem, it is ensured that the autonomous voices of women & ecosystems are not drowned out.
+
+![clanflow.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clanflow.jpg?raw=true)
+
+Throughout the Preliminary phase, there is communication between the 6 clan reps  (3 female and 3 male). This means the formal phase is virtually just a formalization of what has already been discussed in prelim phase consensus. A critical means for streamlining as many voices as possible while avoiding gridlock.
+
+  
+
+**We currently have no temporary representatives in place, so prelim phase facilitation leads will need to be determined by respective clans until we have selected our reps.**
+
+This is a basic oversimplified use of the #activeissues channel tooling for respective clan consensus. The tooling is to be customized as need to suit the respective clan consensus flows.
+
+## Clan Flow: #Formal-proposals
+
+use of the #formal-proposals channel
+
+## Formal Consensus
+
+3 | Streamlining the Autonomous Processes in Formal Consensus
+
+While 9 times out of 10 all positions brought to the floor have already been covered in prelims to easily be made official; this is the first time the female and males are sitting together in decision making. And deliberation is still possible in this formal phase in the rare case it is needed. And here we see a streamlining of autonomous processes, not just between female and male decision making but also between human systems & ecosystems. This is evident in the physical lay out & flow of the formal phase:
+
+  
+
+-   _Male Wolf Clan introduces the issues to the floor. If any needed deliberation, it happens between Bear & Wolf clans, while Turtles observe the deliberation and validate against core collective values, before passing through to be made official._
+
+![clandeliberation.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clandeliberation.jpg?raw=true)
+  
+
+Both Wolf clans, female and male, sit with their backs to the North. Both Bear clans sit with their backs to the South. But the Female Turtle clan sit with their backs to the West and the Male Turtles with their backs to the East. So while the other clans’ deliberation can occur easily between female & male because they are sitting next to each other, for Turtles to come to consensus on positions there has to be movement across the council floor. And this is a critical mechanism for both social organization resilience & ecological sustainability.
+
+Both Wolf clans, female and male, sit with their backs to the North. Both Bear clans sit with their backs to the South. But the Female Turtle clan sit with their backs to the West and the Male Turtles with their backs to the East. So while the other clans’ deliberation can occur easily between female & male because they are sitting next to each other, for Turtles to come to consensus on positions there has to be movement across the council floor. And this is a critical mechanism for both social organization resilience & ecological sustainability.
+
+![clanlayout.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clanlayout.jpg?raw=true)
+
+## Formal Consensus: Preservation of Autonomy
+
+Below is a description of how preservation of autonomy in social organization & ecosystems is represented by the Female Turtles walking over to the male Turtles to reach consensus on positions. And how even in this digital space this functions as a critical means to streamlining resilient social consensus in general:
+
+![turtleflow.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/turtleflow.jpg?raw=true)
+
+With the [traits of the clans](https://github.com/stx-advox/coc/blob/main/README.md#intro) in full function in decision making, the Turtle’s function here is a last nuance in a long flow of decision making protocols that decouples top down concentrated power, enabling autonomous innovation for generators of value, including our ecosystems.
 ### Clan based Advox Grants Support
+**AdvoxDAO Soon to implement MicroDAOs**
+As we roll out our first uses of our consensus flow tooling for decision making, Hozz has also been heads down the last couple weeks on the temporarily named 'Distacular bot' enabling on-chain transactions right inside discord for AdvoxDAO users. Short readable and open source Clarity contracts enabling users to send stx to on another with their .btc names. Also users can create on-chain funding proposals, create microDAOs, execute funding on DAOs etc. We are super excited for implementing this tooling in combination with our bottom up quorum tooling already in use. We believe this can give us a unique approach to Advox task creation but also our first steps at supporting accessibility to the Stacks Grants programs! 
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/47930890/162258547-0ea46807-f0cc-4aed-a354-df13678d0aea.png">
+
+### System Design Ethos
+
+![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpg)
