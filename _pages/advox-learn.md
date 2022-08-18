@@ -1,25 +1,27 @@
 ---
 title: "AdvoxLEARN"
-feature_row2:
-  - image_path: /assets/images/beaturtle.png
-    alt: "placeholder image 2"
+layout: single
+feature_row:
+  - image_path: assets/images/beaturtle.png
+    alt: "placeholder image 1"
     title: "Turtle Clan"
-    excerpt: 'Keen observers of the Stacks ecosystem, validators against core values.'
-feature_row3:
+    excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
+    caption: Graphics :[Bea](https://dada.nyc/home)
+    
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
-    title: "GWolf Clan"
-    excerpt: 'Always moving, path makers & facilitators of the ecosystem.'
-feature_row4:
+    title: "Wolf Clan"
+    excerpt: "Always moving, path makers & facilitators of the ecosystem."
+    caption: Graphics :[Lushan](https://dada.nyc/home)
+    
   - image_path: /assets/images/IsaBear.png
-    alt: "placeholder image 2"
     title: "Bear Clan"
-    excerpt: 'Bridges into the ecosystem, evolution of the ecosystem.'
+    excerpt: "Bridges into the ecosystem, evolution of the ecosystem."
+    caption: Graphics :[IsaKost](https://dada.nyc/home)
 permalink: /advoxlearn/    
 toc: true
 ---
-
-{% include feature_row type="center %}
+{% include feature_row %}
 
 ## Install the theme
 
@@ -125,4 +127,3 @@ Depending on what gems you already have installed you may have to run `bundle up
 When using Bundler to manage gems you'll want to run Jekyll using `bundle exec jekyll serve` and `bundle exec jekyll build`.
 
 Doing so executes the gem versions specified in `Gemfile.lock`. Sure you can test your luck with a naked `jekyll serve`, but I wouldn't suggest it. A lot of Jekyll errors originate from outdated or conflicting gems fighting with each other. So do yourself a favor and just use Bundler.
-
