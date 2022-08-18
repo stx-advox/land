@@ -69,22 +69,20 @@ Turtle is first in the ordered sequence, with all the elements of Wolf & Bear th
 
 
 
+### Turtle, Wolf, & Bear: Relationship, Governance, & Sustainability
+**Background:**
 
+Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienke'ha'ka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
 
+We have rare access to these protocols in pre-colonial form. We realize there was an entire culture of checks & balances omitted from our modern systems of social organization & representation, precisely due to lack of peaceful dialogue with Native nations.
 
+Turtle, Wolf & Bear are our first steps on a path to a decolonized dialogue that can enable authentic alternatives to conventional governance, which is often easier said than actually achieved. TWB is the three tiered clan system of the Kanienke'ha'ka, which for millennia carved empowered paths of bottom up representation for entire Native nations. Speaking to deep cosmological functions of organization, the protocols are designed to maximize modularity for any collective of autonomous organizations.
 
+Even though not all of us are interested in governance, accessible structures designed for empowered voices & representation are fundamental to fair power distribution. With TWB tapping into deep functions of the STX ecosystem, we can leverage autonomous organization well beyond just governance benefits & into blockchain innovation sustainability. Bottom up power here includes built-in structures for innovation decoupled from top down, value alienating control.
 
+As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.
 
-
-
-
-
-
-
-
-
-
-## Theme migration
+## Dida-thing Clan reactions
 
 To move over any existing content you'll want to copy the contents of your `_posts` folder to the new site. Along with any pages, collections, data files, images, or other assets you may have.
 
@@ -148,9 +146,12 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
 end
 ```
+### Clan Governance 
 
 **ProTip:** To be bleeding edge install the latest (unreleased) version of Minimal Mistakes by adding this line to your `Gemfile`: `gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"`.
 {: .notice--info}
+
+## Tools
 
 To maintain a local Jekyll environment in sync with GitHub Pages replace the `gem "jekyll"` line with `gem "github-pages", group: :jekyll_plugins` and run the following:
 
@@ -160,7 +161,7 @@ $ bundle install
 
 **Note:** The [GitHub Pages gem](https://github.com/github/pages-gem) installs additional dependencies that may need to be added to your `Gemfile` if you decide to remove the `gem "github-pages"` eg. `jekyll-paginate`, `jekyll-sitemap`, `jekyll-feed`, `jekyll-include-cache`, etc.
 {: .notice--warning}
-
+## Distributed Power Model
 <figure>
   <img src="{{ '/assets/images/mm-bundle-install.gif' | relative_url }}" alt="bundle install in Terminal window">
 </figure>
@@ -170,3 +171,4 @@ Depending on what gems you already have installed you may have to run `bundle up
 When using Bundler to manage gems you'll want to run Jekyll using `bundle exec jekyll serve` and `bundle exec jekyll build`.
 
 Doing so executes the gem versions specified in `Gemfile.lock`. Sure you can test your luck with a naked `jekyll serve`, but I wouldn't suggest it. A lot of Jekyll errors originate from outdated or conflicting gems fighting with each other. So do yourself a favor and just use Bundler.
+### Clan based Advox Grants Support
