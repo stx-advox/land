@@ -5,13 +5,11 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Turtle Clan"
     excerpt: 'Keen observers of the Stacks ecosystem, validators against core values.'
-    
 feature_row3:
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
     title: "GWolf Clan"
     excerpt: 'Always moving, path makers & facilitators of the ecosystem.'
-    
 feature_row4:
   - image_path: /assets/images/IsaBear.png
     alt: "placeholder image 2"
