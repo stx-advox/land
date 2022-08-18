@@ -1,9 +1,25 @@
 ---
 title: "AdvoxLEARN"
-permalink: /advoxlearn/
+feature_row:
+  - image_path: assets/images/beaturtle.png
+    alt: "placeholder image 1"
+    title: "Turtle Clan"
+    excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
+    caption: Graphics :[Bea](https://dada.nyc/home)
+    
+  - image_path: /assets/images/LushanWolf.png
+    alt: "placeholder image 2"
+    title: "Wolf Clan"
+    excerpt: "Always moving, path makers & facilitators of the ecosystem."
+    caption: Graphics :[Lushan](https://dada.nyc/home)
+    
+  - image_path: /assets/images/IsaBear.png
+    title: "Bear Clan"
+    excerpt: "Bridges into the ecosystem, evolution of the ecosystem."
+    caption: Graphics :[IsaKost](https://dada.nyc/home)
+permalink: /advoxlearn/    
 toc: true
 ---
-
 ## Install the theme
 
 **1.** For a **new site**, install the `minimal-mistakes-jekyll` gem, remote theme, or fork the Minimal Mistakes repo on GitHub following the steps outlined in the [*Quick-Start Guide*]({{ "/docs/quick-start-guide/" | relative_url }}).
