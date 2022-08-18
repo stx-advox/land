@@ -1,27 +1,31 @@
 ---
 title: "AdvoxLEARN"
-layout: single
-feature_row:
-  - image_path: assets/images/beaturtle.png
-    alt: "placeholder image 1"
+feature_row2:
+  - image_path: /assets/images/beaturtle.png
+    alt: "placeholder image 2"
     title: "Turtle Clan"
-    excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
-    caption: Graphics :[Bea](https://dada.nyc/home)
+    excerpt: 'Keen observers of the Stacks ecosystem, validators against core values.'
     
+feature_row3:
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
-    title: "Wolf Clan"
-    excerpt: "Always moving, path makers & facilitators of the ecosystem."
-    caption: Graphics :[Lushan](https://dada.nyc/home)
+    title: "GWolf Clan"
+    excerpt: 'Always moving, path makers & facilitators of the ecosystem.'
     
+feature_row4:
   - image_path: /assets/images/IsaBear.png
+    alt: "placeholder image 2"
     title: "Bear Clan"
-    excerpt: "Bridges into the ecosystem, evolution of the ecosystem."
-    caption: Graphics :[IsaKost](https://dada.nyc/home)
+    excerpt: 'Bridges into the ecosystem, evolution of the ecosystem.'
 permalink: /advoxlearn/    
 toc: true
 ---
-{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="center %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
 
 ## Install the theme
 
