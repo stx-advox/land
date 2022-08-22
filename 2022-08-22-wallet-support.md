@@ -1,5 +1,5 @@
 ---
-title: "Wallet support"
+title: "Wallet Support"
 categories:
   - Blog
 tags:
