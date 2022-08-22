@@ -3,8 +3,8 @@ title: "Wallet Support"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - wallet
+  - support
 ---
 
 ## Stacks Discord Server
