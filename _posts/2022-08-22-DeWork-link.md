@@ -8,7 +8,7 @@ tags:
 link: https://app.dework.xyz/i/1aCypviWgGLfhsG87FuN4u
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+Join our AdvoxDAO DeWork Task Board.
 
 > And this is how a quote looks.
 
