@@ -19,20 +19,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "Clarity Community"
     excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language."
-    url: "#test-link"
+    url: "https://github.com/stacksgov/residence-program/issues/25#issuecomment-1072339878"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/nfts_landing.png
     alt: "placeholder image 2"
     title: "NFTs & Stacks"
     excerpt: "Explore and contribute to the Stacks NFT ecosystem."
-    url: "#test-link"
+    url: "https://discord.gg/nPGNt6eE78"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/sip_landing.png
     title: "SIPs Community"
     excerpt: "Contribute and amplify the Stacks Improvement Proposal processes."
-    url: "#test-link"
+    url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
     btn_label: "More"
     btn_class: "btn--primary"
     
@@ -41,7 +41,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "STX World of Defi"
     excerpt: 'Find out what STX Defi projects and tools have to offer. Stacking, Farming, PoX Mining etc.'
-    url: "#test-link"
+    url: "https://discord.gg/yyugHx4Sbg"
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row3:
@@ -49,7 +49,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Grants Community"
     excerpt: 'Get community support in grant writing & fund for your innovative project.'
-    url: "#test-link"
+    url: "https://grants.stacks.org/k"
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row4:
@@ -57,7 +57,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Community Podcasts"
     excerpt: 'Beloved community podcasts, learn about everything happening in Stacks.'
-    url: "#test-link"
+    url: "https://www.youtube.com/channel/UC2lKVWgtqJbI-7MH0eB-2mg"
     btn_label: "More"
     btn_class: "btn--primary"
  
