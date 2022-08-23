@@ -53,7 +53,7 @@ feature_row3:
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/podcast.png
+  - image_path: /assets/images/podcasts.png
     alt: "placeholder image 2"
     title: "Community Podcasts"
     excerpt: 'Beloved community podcasts, learn about everything happening in Stacks.'
