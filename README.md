@@ -49,7 +49,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Grants Community"
     excerpt: 'Get community support in grant writing & fund for your innovative project.'
-    url: "https://grants.stacks.org/k"
+    url: "https://grants.stacks.org/"
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row4:
