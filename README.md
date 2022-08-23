@@ -2,7 +2,7 @@
 title: "AdvoxDAO"
 layout: splash
 permalink: /
-date: 2022-08-17
+date: 2022-08-22
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
@@ -53,10 +53,10 @@ feature_row3:
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/landing_card.png
+  - image_path: /assets/images/podcast.png
     alt: "placeholder image 2"
-    title: "Stacking Ecosystem"
-    excerpt: 'Trusted community pools leveraging PoX mining, start your own pool, amplify the tech and more.'
+    title: "Community Podcasts"
+    excerpt: 'Beloved community podcasts, learn about everything happening in Stacks.'
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
