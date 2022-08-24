@@ -52,7 +52,6 @@ feature_row3:
     url: "https://grants.stacks.org/"
     btn_label: "More"
     btn_class: "btn--primary"
-    
 feature_row4:
   - image_path: /assets/images/podcasts.png
     alt: "placeholder image 2"
@@ -61,7 +60,8 @@ feature_row4:
     url: "#test-link"
     btn_label: "More"
     btn_class: "btn--primary"
-    feature_row5:
+    
+feature_row5:
   - image_path: /assets/images/landing_card.png
     alt: "placeholder image 2"
     title: "Community Events"
