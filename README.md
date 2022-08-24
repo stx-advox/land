@@ -2,7 +2,7 @@
 title: "AdvoxDAO"
 layout: splash
 permalink: /
-date: 2022-08-22
+date: 2022-08-23
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
@@ -26,7 +26,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "NFTs & Stacks"
     excerpt: "Explore and contribute to the Stacks NFT ecosystem."
-    url: "https://discord.gg/nPGNt6eE78"
+    url: "https://discord.gg/yyugHx4Sbg"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/sip_landing.png
@@ -41,7 +41,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "STX World of Defi"
     excerpt: 'Find out what STX Defi projects and tools have to offer. Stacking, Farming, PoX Mining etc.'
-    url: "https://discord.gg/yyugHx4Sbg"
+    url: "https://discord.gg/CaHfJFNtas"
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row3:
@@ -55,9 +55,17 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/podcasts.png
     alt: "placeholder image 2"
-    title: "Community Podcasts"
-    excerpt: 'Beloved community podcasts, learn about everything happening in Stacks.'
-    url: "https://www.youtube.com/channel/UC2lKVWgtqJbI-7MH0eB-2mg"
+    title: "Community Creators"
+    excerpt: 'Beloved community content creators, learn about everything happening in Stacks.'
+    url: "#test-link"
+    btn_label: "More"
+    btn_class: "btn--primary"
+    feature_row5:
+  - image_path: /assets/images/landing_card.png
+    alt: "placeholder image 2"
+    title: "Community Events"
+    excerpt: 'Add our events to your calendar, and even add your own events to the Stacks community calendar.'
+    url: "https://community.stacks.org/events"
     btn_label: "More"
     btn_class: "btn--primary"
  
@@ -71,4 +79,6 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="center" %}
