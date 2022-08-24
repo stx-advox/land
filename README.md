@@ -52,6 +52,7 @@ feature_row3:
     url: "https://grants.stacks.org/"
     btn_label: "More"
     btn_class: "btn--primary"
+    
 feature_row4:
   - image_path: /assets/images/podcasts.png
     alt: "placeholder image 2"
@@ -81,4 +82,4 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row5" type="center" %}
