@@ -81,4 +81,4 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row5" type="center" %}
+{% include feature_row id="feature_row5" type="right" %}
