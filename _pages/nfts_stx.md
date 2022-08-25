@@ -66,20 +66,13 @@ feature_row5:
     url: "https://discord.gg/MjstcRMvZh"
     btn_label: "More"
     btn_class: "btn--primary"
+
 feature_row6:
   - image_path: /assets/images/greenery.png
     alt: "placeholder image 2"
     title: "The Greenery"
     excerpt: 'Growing Communities and DAOs, NFT, Game and DeFi projects.'
     url: "https://discord.gg/KPpcUC8dh7"
-    btn_label: "More"
-    btn_class: "btn--primary"
- feature_row7:
-  - image_path: /assets/images/airdrop.png
-    alt: "placeholder image 2"
-    title: "The Airdrop Crew"
-    excerpt: 'NFTs are confusing but they don't have to be.'
-    url: "https://discord.gg/HkdCv5Aq"
     btn_label: "More"
     btn_class: "btn--primary"
 ---
@@ -96,6 +89,4 @@ feature_row6:
 
 {% include feature_row id="feature_row5" type="right" %}
 
-{% include feature_row id="feature_row6" type="left" %}
-
-{% include feature_row id="feature_row7" type="center" %}
+{% include feature_row id="feature_row6" type="center" %}
