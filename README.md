@@ -26,7 +26,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "NFTs & Stacks"
     excerpt: "Explore and contribute to the Stacks NFT ecosystem."
-    url: "https://discord.gg/yyugHx4Sbg"
+    url: "https://stx-advox.github.io/land/stxnfts/"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/sip_landing.png
