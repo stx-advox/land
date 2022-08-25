@@ -26,19 +26,19 @@ feature_row:
     url: "https://discord.gg/fEte4Kcg"
     btn_label: "More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/built-btc.png
-    title: "Built On Bitcoin"
-    excerpt: "This is the premier podcast if you want to learn about bleeding edge innovation on Bitcoin."
-    url: "https://discord.gg/XccgqtH3"
+  - image_path: /assets/images/stx-due.png
+    title: "Stacks Due Diligence"
+    excerpt: "Say Bye Bye to being rugged!"
+    url: "https://discord.gg/x3bwSzK7"
     btn_label: "More"
     btn_class: "btn--primary"
     
 feature_row2:
-  - image_path: /assets/images/stx-due.png
+  - image_path: /assets/images/built-btc.png
     alt: "placeholder image 2"
-    title: "Stacks Due Diligence"
-    excerpt: 'Say Bye Bye to being rugged!.'
-    url: "https://discord.gg/x3bwSzK7"
+    title: "Built On Bitcoin"
+    excerpt: 'This is the premier podcast if you want to learn about bleeding edge innovation on Bitcoin..'
+    url: ""
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row3:
