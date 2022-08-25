@@ -37,7 +37,7 @@ feature_row2:
   - image_path: /assets/images/built-btc.png
     alt: "placeholder image 2"
     title: "Built On Bitcoin"
-    excerpt: 'This is the premier podcast if you want to learn about bleeding edge innovation on Bitcoin. Covering the apps and founders building inside the Bitcoin ecosystem.'
+    excerpt: 'This is the premier podcast if you want to learn about bleeding edge innovation on Bitcoin. Covering apps & founders building the Bitcoin ecosystem.'
     url: ""
     btn_label: "More"
     btn_class: "btn--primary"
