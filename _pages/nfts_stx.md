@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png
   caption: "Graphics : [**Stacks**](https://stacks.co)"
-excerpt: "Welcome, Advox Curated Stacks NFT Communities."
+excerpt: "Welcome To Advox Curated Stacks NFT Communities."
 intro: 
   - excerpt: '**These servers are Curated carefully by our community. From NFT marketplace security to warm walkthroughs the NFT ecosystem.**'
 feature_row:
