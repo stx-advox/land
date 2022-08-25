@@ -1,5 +1,5 @@
 ---
-title: "Nfts & Stacks"
+title: "Stacks NFTs"
 layout: splash
 permalink: /stxnfts/
 date: 2022-08-24
@@ -10,7 +10,7 @@ header:
   caption: "Graphics : [**Stacks**](https://stacks.co)"
 excerpt: "Welcome. Walk on into Stacks NFT Communities Here."
 intro: 
-  - excerpt: '**These servers will take good care of newcomers, from NFT marketplace security to warm walkthroughs the ecosystem.**'
+  - excerpt: '**These servers are Curated carefully by community. From NFT marketplace security to warm walkthroughs the NFT ecosystem.**'
 feature_row:
   - image_path: assets/images/boom.png
     alt: "placeholder image 1"
