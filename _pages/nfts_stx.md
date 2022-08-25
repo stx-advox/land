@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/stx-due.png
     title: "Stacks Due Diligence"
-    excerpt: "Say Bye Bye to being rugged!"
+    excerpt: "Say Bye Bye to being rugged! Dedicated server for NFT support & updates."
     url: "https://discord.gg/x3bwSzK7"
     btn_label: "More"
     btn_class: "btn--primary"
@@ -37,16 +37,16 @@ feature_row2:
   - image_path: /assets/images/built-btc.png
     alt: "placeholder image 2"
     title: "Built On Bitcoin"
-    excerpt: 'This is the premier podcast if you want to learn about bleeding edge innovation on Bitcoin..'
+    excerpt: 'This is the premier podcast if you want to learn about bleeding edge innovation on Bitcoin. Covering the apps and founders building inside the Bitcoin ecosystem.'
     url: ""
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/jrny-web3.png
+  - image_path: /assets/images/airdrop.png
     alt: "placeholder image 2"
-    title: "Jrny Into Web3"
-    excerpt: 'Bridging the gap between bitcoin + web3 communities.'
-    url: "https://discord.gg/XGRnPVUd"
+    title: "Airdrop Crew"
+    excerpt: 'NFTs are confusing. But they do not have to be.'
+    url: "https://discord.gg/HkdCv5Aq"
     btn_label: "More"
     btn_class: "btn--primary"
 feature_row4:
