@@ -1,7 +1,5 @@
 ---
 title: "Stacks Amplification"
-categories:
-  - Blog
 tags:
   - discord
   - dework
