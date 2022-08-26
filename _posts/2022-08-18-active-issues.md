@@ -1,15 +1,9 @@
 ---
-title: "Active-Issues"
+title: "Active-Issue"
 categories:
   - Gov
   - Active
-  - Passed
-  - Failed
-  - Upcoming
-  - SIPs
-  - Chapters
-  - Buddies
 tags:
   - advoxgov
 ---
-All Gov Categories
+Discord Consensus SoP
