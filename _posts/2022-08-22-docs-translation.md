@@ -1,7 +1,5 @@
 ---
 title: "Docs Translation"
-categories:
-  - Blog
 tags:
   - dework
   - translation
