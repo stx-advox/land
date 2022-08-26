@@ -3,9 +3,9 @@ main:
     url: /dework/
   - title: "advoxLEARN"
     url: /advoxlearn/
-  - title: "Docs"
-    url: /docs/
   - title: "advoxGOV"
-    url: /categories/advoxgov/    
+    url: /advoxgov/   
+  - title: "Docs"
+    url: /docs/    
   - title: "About"
     url: /about/
