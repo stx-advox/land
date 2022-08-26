@@ -21,21 +21,17 @@ The following content is the current Standard of Procedure for using our clan de
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**
 
 ### Female 🐢 Clan
-[Join Dialogue Here](#testlink)
-
-### Male 🐢 Clan
+[Join Dialogue Here](#testlink) ### Male 🐢 Clan
 [Join Dialogue Here](https://discord.com/channels/621759717756370964/920038810677575780/1012771548752527490)
 
 
 ### Female 🐺 Clan
-[Join Dialogue Here](https://discord.com/channels/621759717756370964/920038810677575780/1012147783970590780)
-
-### Male 🐺 Clan
+[Join Dialogue Here](https://discord.com/channels/621759717756370964/920038810677575780/1012147783970590780) ### Male 🐺 Clan
 [Join Dialogue Here](https://discord.com/channels/621759717756370964/920038810677575780/1011989581442330624)
 
 
 ### Female 🐻 Clan
+[Join Dialogue Here](#testlink) ### Male 🐻 Clan
 [Join Dialogue Here](#testlink)
 
-### Male 🐻 Clan
-[Join Dialogue Here](#testlink)
+
