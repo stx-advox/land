@@ -8,6 +8,6 @@ category_archive:
 taxonomy: advoxgov
 class: wide
 intro: 
-  - excerpt: '**advoxDAO Governance Guide.**'
+  - excerpt: '**advoxDAO Governance Guide**'
 ---
 {% include feature_row id="intro" type="center" %}
