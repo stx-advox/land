@@ -1,8 +1,10 @@
 ---
 title: advoxGOV
-categories: advoxgov
+categories: 
+- advoxgov
 permalink: /hellogov/
-tags: advoxgov
+tags: 
+- advoxgov
 taxonomy: advoxgov
 ---
 
