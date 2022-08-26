@@ -1,6 +1,6 @@
 ---
 title: advoxGOV
-layout: category
+categories: advoxgov
 permalink: /categories/advoxgov/
 tags: advoxgov
 taxonomy: advoxgov
