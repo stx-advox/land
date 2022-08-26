@@ -2,8 +2,6 @@
 title: "Active-Issues"
 categories:
   - Gov
-tags:
-  - Gov
   - Active
   - Passed
   - Failed
@@ -11,5 +9,7 @@ tags:
   - SIPs
   - Chapters
   - Buddies
+tags:
+  - advoxgov
 ---
-All Active Tags
+All Gov Categories
