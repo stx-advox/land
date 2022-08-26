@@ -6,7 +6,9 @@ category_archive:
   type: liquid
   path: /categories/
 taxonomy: advoxgov
+class: wide
 intro: 
-  - excerpt: 'All Our Gov Tools are right inside the Official Stacks Discord Server, But this page is a helpful Guide through our consensus processes.**'
+  - excerpt: '**Our Gov Tools are inside the Official Stacks Discord Server. 
+Use this page as a helpful Guide through our Consensus Processes.**'
 ---
 {% include feature_row id="intro" type="center" %}
