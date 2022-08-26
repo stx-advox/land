@@ -1,11 +1,10 @@
 ---
-title: advoxGOV
-categories: 
-- advoxgov
-permalink: /hellogov/
-tags: 
-- advoxgov
-taxonomy: advoxgov
+title: "advoxGOV"
+categories:
+  - Gov
+tags:
+  - gov
+  - issues
 ---
 
 ### Hello Worlds
