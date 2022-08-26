@@ -7,10 +7,12 @@ tags:
   - advoxgov
 ---
 # Discord Consensus SoP
-**(1) Issue Name: 
+
+
+**Issue Name:**
 Active Issues Standard Of Procedure**  
 
-**(2) Issue Description: 
+**(2) Issue Description:** 
 The following content is the current Standard of Procedure for using our clan design and tooling together. The goal of this issue is to leverage the clan flow itself to engender exposure & feedback to the tooling and governance models throughout Advox. Refining of the SOP or tooling itself are also positions to consider in this process.**  
 
 **(3) Artifacts & References: 
