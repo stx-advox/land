@@ -1,7 +1,5 @@
 ---
 title: "DeWork"
-categories:
-  - Blog
 tags:
   - link
   - Post Formats
