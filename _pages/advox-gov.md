@@ -1,5 +1,6 @@
 ---
-title: "advoxGOV"
-permalink: /advoxgov/
-layout: posts
+title: advoxGOV
+layout: category
+permalink: /categories/advoxgov/
+taxonomy: advoxgov
 ---
