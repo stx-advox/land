@@ -8,7 +8,6 @@ category_archive:
 taxonomy: advoxgov
 class: wide
 intro: 
-  - excerpt: '**Our Gov Tools are inside the Official Stacks Discord Server. 
-Use this page as a helpful Guide through our Consensus Processes.**'
+  - excerpt: '**A Guide through our Consensus Processes on the Official Stacks Discord.**'
 ---
 {% include feature_row id="intro" type="center" %}
