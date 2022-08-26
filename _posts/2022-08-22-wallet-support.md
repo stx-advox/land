@@ -1,7 +1,5 @@
 ---
 title: "Wallet Support"
-categories:
-  - Blog
 tags:
   - wallet
   - support
