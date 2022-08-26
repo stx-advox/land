@@ -1,7 +1,5 @@
 ---
 title: "Discord Moderation"
-categories:
-  - Blog
 tags:
   - discord
   - dework
