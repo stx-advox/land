@@ -1,7 +1,7 @@
 ---
 title: advoxGOV
 categories: advoxgov
-permalink: /categories/advoxgov/
+permalink: /hellogov/
 tags: advoxgov
 taxonomy: advoxgov
 ---
