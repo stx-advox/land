@@ -170,11 +170,10 @@ Below is a description of how preservation of autonomy in social organization & 
 
 With the [traits of the clans](https://github.com/stx-advox/coc/blob/main/README.md#intro) in full function in decision making, the Turtle’s function here is a last nuance in a long flow of decision making protocols that decouples top down concentrated power, enabling autonomous innovation for generators of value, including our ecosystems.
 ### Clan based Advox Grants Support
-**AdvoxDAO Soon to implement MicroDAOs**
-As we roll out our first uses of our consensus flow tooling for decision making, Hozz has also been heads down the last couple weeks on the temporarily named 'Distacular bot' enabling on-chain transactions right inside discord for AdvoxDAO users. Short readable and open source Clarity contracts enabling users to send stx to on another with their .btc names. Also users can create on-chain funding proposals, create microDAOs, execute funding on DAOs etc. We are super excited for implementing this tooling in combination with our bottom up quorum tooling already in use. We believe this can give us a unique approach to Advox task creation but also our first steps at supporting accessibility to the Stacks Grants programs! 
-
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/47930890/162258547-0ea46807-f0cc-4aed-a354-df13678d0aea.png">
+**AdvoxDAO Soon to implement MicroDAOs**
 
+As we roll out our first uses of our consensus flow tooling for decision making, Hozz has also been heads down the last couple weeks on the temporarily named 'Distacular bot' enabling on-chain transactions right inside discord for AdvoxDAO users. Short readable and open source Clarity contracts enabling users to send stx to on another with their .btc names. Also users can create on-chain funding proposals, create microDAOs, execute funding on DAOs etc. We are super excited for implementing this tooling in combination with our bottom up quorum tooling already in use. We believe this can give us a unique approach to Advox task creation but also our first steps at supporting accessibility to the Stacks Grants programs! 
 ## System Design Ethos
 
 ![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpgraw=true)
