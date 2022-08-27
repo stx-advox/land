@@ -1,27 +1,24 @@
 ---
 title: "AdvoxLEARN"
 layout: single
+class: wide
 feature_row:
   - image_path: assets/images/beaturtle.png
     alt: "placeholder image 1"
-    title: "Turtle"
     
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
-    title: "Wolf"
     
   - image_path: /assets/images/IsaBear.png
-    title: "Bear"
+    alt: "placeholder image 3"
 permalink: /advoxlearn/    
 toc: true
 ---
 {% include feature_row %}
 
-## Advox Clan System
+# Advox Clan System
 
-### Turtle:
-
-**Commons Loop Closing**
+### 🐢Commons Loop Closing
 
 We can think of the Turtle clan as master architects & engineers that hold the blueprints …but in this case the house is on a planetary scale. Key characteristics or functions of Turtles in a system are **_observation & validation_**.
 
@@ -39,9 +36,7 @@ So this speaks to the sometimes abstract closed loops of governance protocols or
 
   
 
-### Wolf:
-
-**Commons Accessibility**
+### 🐺Commons Accessibility
 
 Wolf clan can be thought of as initiators, the constantly moving facilitators of Commons accessibility. The sparks for deliberation of important issues or actions; the guides for empowered paths of information dissemination. Key function being **_to gather the minds and voices of generators of value in consensus_**.
 
@@ -51,9 +46,7 @@ In formal decision making protocols it is a Wolf clan representative who initiat
 
   
 
-### Bear:
-
-**Commons Evolution**
+### 🐻Commons Evolution
 
 Bear clan is simple, just think of it as effective medicine. Then think of medicine in all its possible forms; even the function of good friendship or guidance. Bears are the masters of transformative potential and effective transition. Key for our Stacks ecosystem, focused on OSS in Can’t Be Evil design & engineering, for a user-empowered internet. Transformation away from conventional models is fundamental for folks coming into our ecosystem, but just as important for our system too.
 
@@ -69,8 +62,8 @@ Turtle is first in the ordered sequence, with all the elements of Wolf & Bear th
 
 
 
-### Turtle, Wolf, & Bear: Relationship, Governance, & Sustainability
-**Background:**
+### Background 
+##Turtle, Wolf, & Bear Relationship, Governance, & Sustainability
 
 Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienke'ha'ka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
 
@@ -82,18 +75,22 @@ Even though not all of us are interested in governance, accessible structures de
 
 As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.
 
-## Dida-thing Clan Reactions
+## Did-a-thing Clan Reactions
+
 - Go to the #start-here channel under the Advox DAO category in the official STX discord to get started
 - **The didathing channel** will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
 - The props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
+
 - **Advox Clan Design** is fluid so we can identify whenever a certain contribution seems to speak to particular clan traits
 - This is important tracking intrinsic motivavtions and leveraging this through out the Advox system design
 - This along with number value weights help us with our P2P evaluations & review
 - We've done an entire overhaul to the SourceCred alogorithm to achieve clear customizable weights
-### Advox Clan Governance 
+
+# Advox Clan Governance 
 - Active Issues is where you’ll find the clans coming into play, see different community governance proposals to learn why the advocates program is the way it is now.
 - But also participate through your clan role, and have your voice heard at the heart of AdvoxDAO decision making processes
 - Clan traits alos play a critical role is our consesnus tools shown below. Leveraging Harvard/Oxford Metagov research group's PolicyKit.
+
 ## Web3GovTools
 - We managed to build PolicyKit interactions right into the discord for users, with the post author’s thread updates being uploaded to PK seamlessly. 
 
@@ -110,11 +107,11 @@ As STX advocates, we recognize this as a historical chance to achieve distribute
 - As a user I should be able to join the governance process of a specific issue by reacting with 👀
 - As a user I should be able to see if the proposal has passed or failed 
 
-## Distributed Power Model
-# Clan Design + Modular Consensus Tools
+# Distributed Power Model
+## Clan Design + Modular Consensus Tools
 ![clantools.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clantools.jpg?raw=true)
 
-## Clan Flow: #Active-issues
+### Clan Flow: #Active-issues
 
 use of the #active-issues channel
 
@@ -142,11 +139,11 @@ Throughout the Preliminary phase, there is communication between the 6 clan reps
 
 This is a basic oversimplified use of the #activeissues channel tooling for respective clan consensus. The tooling is to be customized as need to suit the respective clan consensus flows.
 
-## Clan Flow: #Formal-proposals
+### Clan Flow: #Formal-proposals
 
 use of the #formal-proposals channel
 
-## Formal Consensus
+### Formal Consensus
 
 3 | Streamlining the Autonomous Processes in Formal Consensus
 
@@ -165,7 +162,7 @@ Both Wolf clans, female and male, sit with their backs to the North. Both Bear c
 
 ![clanlayout.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clanlayout.jpg?raw=true)
 
-## Formal Consensus: Preservation of Autonomy
+### Formal Consensus: Preservation of Autonomy
 
 Below is a description of how preservation of autonomy in social organization & ecosystems is represented by the Female Turtles walking over to the male Turtles to reach consensus on positions. And how even in this digital space this functions as a critical means to streamlining resilient social consensus in general:
 
@@ -178,6 +175,6 @@ As we roll out our first uses of our consensus flow tooling for decision making,
 
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/47930890/162258547-0ea46807-f0cc-4aed-a354-df13678d0aea.png">
 
-### System Design Ethos
+# System Design Ethos
 
-![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpg)
+![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpgraw=true)
