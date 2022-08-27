@@ -18,7 +18,7 @@ toc: true
 
 # Did-a-thing Clan Reactions
 
-![Did-a-Thing.png](https://github.com/stx-advox/land/blob/master/assets/images/Did-a-Thing.png)
+![Did-a-Thing.png](https://github.com/stx-advox/land/blob/master/assets/images/Did-a-Thing.png?raw=true)
 
 - Go to the #start-here channel under the Advox DAO category in the official STX discord to get started
 - **The didathing channel** will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
