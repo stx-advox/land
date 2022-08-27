@@ -16,7 +16,20 @@ toc: true
 ---
 {% include feature_row %}
 
-# Advox Clan System
+# Did-a-thing Clan Reactions
+
+![Did-a-Thing.png](https://github.com/stx-advox/land/blob/master/assets/images/Did-a-Thing.png)
+
+- Go to the #start-here channel under the Advox DAO category in the official STX discord to get started
+- **The didathing channel** will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
+- The props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
+
+- **Advox Clan Design** is fluid so we can identify whenever a certain contribution seems to speak to particular clan traits
+- This is important tracking intrinsic motivavtions and leveraging this through out the Advox system design
+- This along with number value weights help us with our P2P evaluations & review
+- We've done an entire overhaul to the SourceCred alogorithm to achieve clear customizable weights
+
+## Advox Clan System
 
 ### 🐢Commons Loop Closing
 
@@ -62,8 +75,8 @@ Turtle is first in the ordered sequence, with all the elements of Wolf & Bear th
 
 
 
-### Background 
-##Turtle, Wolf, & Bear Relationship, Governance, & Sustainability
+## Background 
+**Turtle, Wolf, & Bear Relationship, Governance, & Sustainability**
 
 Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienke'ha'ka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
 
@@ -74,17 +87,6 @@ Turtle, Wolf & Bear are our first steps on a path to a decolonized dialogue that
 Even though not all of us are interested in governance, accessible structures designed for empowered voices & representation are fundamental to fair power distribution. With TWB tapping into deep functions of the STX ecosystem, we can leverage autonomous organization well beyond just governance benefits & into blockchain innovation sustainability. Bottom up power here includes built-in structures for innovation decoupled from top down, value alienating control.
 
 As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.
-
-## Did-a-thing Clan Reactions
-
-- Go to the #start-here channel under the Advox DAO category in the official STX discord to get started
-- **The didathing channel** will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
-- The props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
-
-- **Advox Clan Design** is fluid so we can identify whenever a certain contribution seems to speak to particular clan traits
-- This is important tracking intrinsic motivavtions and leveraging this through out the Advox system design
-- This along with number value weights help us with our P2P evaluations & review
-- We've done an entire overhaul to the SourceCred alogorithm to achieve clear customizable weights
 
 ## Advox Clan Governance 
 - Active Issues is where you’ll find the clans coming into play, see different community governance proposals to learn why the advocates program is the way it is now.
