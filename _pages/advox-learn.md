@@ -75,7 +75,7 @@ Turtle is first in the ordered sequence, with all the elements of Wolf & Bear th
 
 
 
-## Background 
+# Background 
 **Turtle, Wolf, & Bear Relationship, Governance, & Sustainability**
 
 Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienke'ha'ka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
@@ -88,7 +88,7 @@ Even though not all of us are interested in governance, accessible structures de
 
 As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.
 
-## Advox Clan Governance 
+# Advox Clan Governance 
 - Active Issues is where you’ll find the clans coming into play, see different community governance proposals to learn why the advocates program is the way it is now.
 - But also participate through your clan role, and have your voice heard at the heart of AdvoxDAO decision making processes
 - Clan traits alos play a critical role is our consesnus tools shown below. Leveraging Harvard/Oxford Metagov research group's PolicyKit.
@@ -109,8 +109,8 @@ As STX advocates, we recognize this as a historical chance to achieve distribute
 - As a user I should be able to join the governance process of a specific issue by reacting with 👀
 - As a user I should be able to see if the proposal has passed or failed 
 
-## Distributed Power Model
-### Clan Design + Modular Consensus Tools
+# Distributed Power Model
+## Clan Design + Modular Consensus Tools
 ![clantools.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clantools.jpg?raw=true)
 
 ### Clan Flow: #Active-issues
@@ -171,12 +171,13 @@ Below is a description of how preservation of autonomy in social organization & 
 ![turtleflow.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/turtleflow.jpg?raw=true)
 
 With the [traits of the clans](https://github.com/stx-advox/coc/blob/main/README.md#intro) in full function in decision making, the Turtle’s function here is a last nuance in a long flow of decision making protocols that decouples top down concentrated power, enabling autonomous innovation for generators of value, including our ecosystems.
-### Clan based Advox Grants Support
+
+# Clan based Advox Grants Support
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/47930890/162258547-0ea46807-f0cc-4aed-a354-df13678d0aea.png">
 
 **AdvoxDAO Soon to implement MicroDAOs**
 As we roll out our first uses of our consensus flow tooling for decision making, Hozz has also been heads down the last couple weeks on the temporarily named 'Distacular bot' enabling on-chain transactions right inside discord for AdvoxDAO users. Short readable and open source Clarity contracts enabling users to send stx to on another with their .btc names. Also users can create on-chain funding proposals, create microDAOs, execute funding on DAOs etc. We are super excited for implementing this tooling in combination with our bottom up quorum tooling already in use. We believe this can give us a unique approach to Advox task creation but also our first steps at supporting accessibility to the Stacks Grants programs! 
 
-## System Design Ethos
+# System Design Ethos
 
 ![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpg?raw=true)
