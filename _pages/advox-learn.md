@@ -107,8 +107,8 @@ As STX advocates, we recognize this as a historical chance to achieve distribute
 - As a user I should be able to join the governance process of a specific issue by reacting with 👀
 - As a user I should be able to see if the proposal has passed or failed 
 
-# Distributed Power Model
-## Clan Design + Modular Consensus Tools
+## Distributed Power Model
+### Clan Design + Modular Consensus Tools
 ![clantools.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/clantools.jpg?raw=true)
 
 ### Clan Flow: #Active-issues
@@ -175,6 +175,6 @@ As we roll out our first uses of our consensus flow tooling for decision making,
 
 <img width="854" alt="image" src="https://user-images.githubusercontent.com/47930890/162258547-0ea46807-f0cc-4aed-a354-df13678d0aea.png">
 
-# System Design Ethos
+## System Design Ethos
 
 ![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpgraw=true)
