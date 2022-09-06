@@ -1,6 +1,8 @@
 main:
   - title: "Dework"
     url: /dework/
+  - title: "Explore"
+    url: /Explore/
   - title: "advoxLEARN"
     url: /advoxlearn/
   - title: "advoxGOV"
