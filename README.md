@@ -10,5 +10,8 @@ header:
 excerpt: "Motivated Community Contributions. Stacking Pool Distribution. Longterm Community Power & Innovation."
 intro: 
   - excerpt: '**The mission of the Advocates Program (Advox) is to distribute power/raise the voices, etc. Advox offers a welcoming space for anyone to get involved in the Stacks community. Supported by Stacks’ unique stacking mechanism, members of Advox share in the value that we collectively create.!**' 
-  
-  # Hello Advix WalkThrough
+
+# Hello Advox Walk Through
+---
+
+{% include feature_row id="intro" type="center" %}
