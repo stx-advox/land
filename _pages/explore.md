@@ -1,15 +1,15 @@
 ---
 title: "Explore"
 layout: splash
-permalink: /explore
+permalink: /explore/
 date: 2022-09-06
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png
-excerpt: "Motivated Community Contributions. Stacking Pool Distribution. Longterm Community Power & Innovation."
+excerpt: "Longterm Community Power & Innovation."
 intro: 
-  - exerpt: **'.Explore The Stacks Community.'**
+  - excerpt: '**Explore The Stacks Community**'
 feature_row:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
@@ -22,7 +22,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "NFTs & Stacks"
     excerpt: "Explore and contribute to the Stacks NFT ecosystem."
-    url: "https://stx-advox.github.io/land/stxnfts/"
+    url: "https://discord.gg/yyugHx4Sbg"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /assets/images/sip_landing.png
@@ -31,7 +31,7 @@ feature_row:
     url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
     btn_label: "More"
     btn_class: "btn--primary"
-
+    
 feature_row2:
   - image_path: /assets/images/defi_landing.png
     alt: "placeholder image 2"
@@ -56,7 +56,7 @@ feature_row4:
     url: "https://stx-advox.github.io/land/creators/"
     btn_label: "More"
     btn_class: "btn--primary"
-
+    
 feature_row5:
   - image_path: /assets/images/landing_card.png
     alt: "placeholder image 2"
@@ -65,6 +65,7 @@ feature_row5:
     url: "https://community.stacks.org/events"
     btn_label: "More"
     btn_class: "btn--primary"
+ 
 ---
 
 {% include feature_row id="intro" type="center" %}
