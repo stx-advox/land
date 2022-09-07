@@ -42,7 +42,7 @@ feature_row4:
     btn_label: "advoxGOV"
     btn_class: "btn--primary"
 
-body:
+body2:
 - excerpt: ' 
 ##  🤝 Join
 
@@ -73,3 +73,5 @@ body:
 {% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="body2" type="justify" %}
