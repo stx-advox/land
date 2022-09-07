@@ -15,7 +15,9 @@ intro:
 
 - The mission of the Advocates Program (Advox) is to distribute power 
 
-- Ensuring voice for generators of value. Advox offers a welcoming space for anyone to get involved in the Stacks community
+- Ensuring voice for generators of value 
+
+- Advox offers a welcoming space for anyone to get involved in the Stacks community
  
 - Supported by Stacks’ unique stacking mechanism 
 
