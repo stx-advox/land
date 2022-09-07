@@ -1,7 +1,7 @@
 ---
 title: "Stacks Chapters"
 layout: splash
-permalink: /explore/
+permalink: /chapters/
 date: 2022-09-06
 header:
   overlay_color: "#5e616c"
