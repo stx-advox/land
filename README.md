@@ -9,11 +9,9 @@ header:
   overlay_image: /assets/images/Metaverse.png
 excerpt: "Motivated Community Contributions. Stacking Pool Distribution. Longterm Community Power & Innovation."
 intro: 
-  - excerpt: '**Welcome to AdvoxDAO**' 
-body:
-- excerpt: '
+  - excerpt: '
 
-# AdvoxDAO Mission
+# Welcome to AdvoxDAO
 
 The mission of the Advocates Program (Advox) is to distribute power. Ensuring voice for generators of value. Advox offers a welcoming space for anyone to get involved in the Stacks community. Supported by Stacks’ unique stacking mechanism, members of Advox share in the value that we collectively create.'
 
@@ -42,7 +40,7 @@ feature_row4:
     btn_label: "advoxGOV"
     btn_class: "btn--primary"
 
-body2:
+body:
 - excerpt: ' 
 
 #  🤝 Join
@@ -63,9 +61,7 @@ body2:
 
 - The resources channel will help you find more information about the advocates program'
 ---
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="body" type="justify" %}
+{% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
 
@@ -75,4 +71,4 @@ body2:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="body2" type="justify" %}
+{% include feature_row id="body" type="justify" %}
