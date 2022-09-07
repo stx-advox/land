@@ -61,7 +61,7 @@ body:
 
 - The resources channel will help you find more information about the advocates program'
 ---
-{% include feature_row id="intro" type="center-justify" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
