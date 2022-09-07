@@ -16,6 +16,9 @@ body:
 # AdvoxDAO Mission
 
 The mission of the Advocates Program (Advox) is to distribute power. Ensuring voice for generators of value. Advox offers a welcoming space for anyone to get involved in the Stacks community. Supported by Stacks’ unique stacking mechanism, members of Advox share in the value that we collectively create.
+ url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
+    btn_label: "Apply Now"
+    btn_class: "btn--primary"
 
 ##  🤝 Join
 
