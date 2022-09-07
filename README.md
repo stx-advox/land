@@ -53,9 +53,9 @@ body:
 
 #  🤝 Join
 
-1. Join the stacks discord server 
+1. Join the official [Stacks Discord](https://discord.gg/gKF48SVChS) server 
 
-2. in #start-here select the 🔍 emoji to get access to the Advocates DAO category
+2. In #start-here select the 🔍 emoji to get access to the Advocates DAO category
 
 3. Have a friend advocate vouch for you, or post an intro about yourself directly in the #join-requests channel
 
