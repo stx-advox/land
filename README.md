@@ -43,12 +43,12 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/welcome.gif
     alt: "placeholder image 2"
-    title: "Grants Community"
+    title: "Did-a-thing"
     excerpt: '#Did-a-thing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem'
 feature_row4:
   - image_path: /assets/images/welcome.gif
     alt: "placeholder image 2"
-    title: "Community Creators"
+    title: "Active Issues"
     excerpt: 'Active Issues is where you’ll find different community governance proposals.'
 ---
 {% include feature_row id="intro" type="center" %}
