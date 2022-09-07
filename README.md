@@ -13,11 +13,13 @@ intro:
 
 # Welcome to AdvoxDAO
 
-- The mission of the Advocates Program (Advox) is to distribute power. 
+- The mission of the Advocates Program (Advox) is to distribute power 
 
 - Ensuring voice for generators of value. Advox offers a welcoming space for anyone to get involved in the Stacks community
  
-- Supported by Stacks’ unique stacking mechanism, members of Advox share in the value that we collectively create.'
+- Supported by Stacks’ unique stacking mechanism 
+
+- Members of Advox share in the value that we collectively create'
 
 feature_row2:
   - image_path: /assets/images/welcome.gif
@@ -65,7 +67,7 @@ body:
 
 - The resources channel will help you find more information about the advocates program'
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
 
