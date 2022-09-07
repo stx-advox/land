@@ -38,18 +38,18 @@ The mission of the Advocates Program (Advox) is to distribute power. Ensuring vo
 feature_row2:
   - image_path: /assets/images/welcome.gif
     alt: "placeholder image 2"
-    title: "Welcome Flow"
-    excerpt: 'An Advocates welcomer will interview you and help you find your place in the program.'
+    title: "#welcome"
+    excerpt: 'An Advocates interview, AdvoxDAO will help you find your place in Stacks.'
 feature_row3:
   - image_path: /assets/images/didathing.gif
     alt: "placeholder image 2"
-    title: "Did-a-thing"
-    excerpt: '#Did-a-thing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem'
+    title: "#did-a-thing"
+    excerpt: '#Did-a-thing channel will show you tons of diverse contributions. Examples of the great efforts you can contribute to the ecosystem'
 feature_row4:
   - image_path: /assets/images/active-issues.gif
     alt: "placeholder image 2"
-    title: "Active Issues"
-    excerpt: 'Active Issues is where you’ll find different community governance proposals.'
+    title: "#active-issues"
+    excerpt: 'active-issues is where you’ll find different community governance proposals.'
 ---
 {% include feature_row id="intro" type="center" %}
 
