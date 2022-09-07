@@ -41,7 +41,7 @@ feature_row2:
     title: "Welcome Flow"
     excerpt: 'An Advocates welcomer will interview you and help you find your place in the program.'
 feature_row3:
-  - image_path: /assets/images/welcome.gif
+  - image_path: /assets/images/didathing.gif
     alt: "placeholder image 2"
     title: "Did-a-thing"
     excerpt: '#Did-a-thing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem'
