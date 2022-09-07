@@ -40,16 +40,25 @@ feature_row2:
     alt: "placeholder image 2"
     title: "#welcome"
     excerpt: 'An Advocates interview, AdvoxDAO will help you find your place in Stacks.'
+    url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
+    btn_label: "Sign Up"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/didathing.gif
     alt: "placeholder image 2"
     title: "#did-a-thing"
     excerpt: '#Did-a-thing channel will show you tons of diverse contributions. Examples of the great efforts you can contribute to the ecosystem'
+    url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
+    btn_label: "Sign Up"
+    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/active-issues.gif
     alt: "placeholder image 2"
     title: "#active-issues"
     excerpt: '#active-issues is where you will find different community governance proposals.'
+    url: "https://stx-advox.github.io/land/advoxgov/"
+    btn_label: "advoxGOV"
+    btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
 
