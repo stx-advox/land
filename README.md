@@ -18,9 +18,13 @@ body:
 The mission of the Advocates Program (Advox) is to distribute power. Ensuring voice for generators of value. Advox offers a welcoming space for anyone to get involved in the Stacks community. Supported by Stacks’ unique stacking mechanism, members of Advox share in the value that we collectively create.
 
 ##  🤝 Join
+
 1. Join the stacks discord server 
+
 2. in #start-here select the 🔍 emoji to get access to the Advocates DAO category
+
 3. Have a friend advocate vouch for you, or post an intro about yourself directly in the #join-requests channel
+
 4. An Advocates welcomer will interview you and help you find your place in the program
 
 - The didathing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
@@ -49,7 +53,7 @@ feature_row4:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="body" type="right" %}
+{% include feature_row id="body" %}
 
 {% include feature_row %}
 
