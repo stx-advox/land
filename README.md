@@ -53,7 +53,7 @@ feature_row4:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="body" %}
+{% include feature_row id="body" type="justify" %}
 
 {% include feature_row %}
 
