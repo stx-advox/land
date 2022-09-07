@@ -44,7 +44,8 @@ feature_row4:
 
 body2:
 - excerpt: ' 
-##  🤝 Join
+
+#  🤝 Join
 
 1. Join the stacks discord server 
 
