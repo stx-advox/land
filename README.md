@@ -46,7 +46,7 @@ feature_row3:
     title: "Did-a-thing"
     excerpt: '#Did-a-thing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem'
 feature_row4:
-  - image_path: /assets/images/welcome.gif
+  - image_path: /assets/images/active-issues.gif
     alt: "placeholder image 2"
     title: "Active Issues"
     excerpt: 'Active Issues is where you’ll find different community governance proposals.'
