@@ -5,7 +5,6 @@ categories:
   - Upcoming
 tags:
   - advoxgov
-excerpt: "Longterm Community Power & Innovation."
 body: 
   - excerpt: ' 
 # Discord Consensus SoP
@@ -52,6 +51,7 @@ feature_row:
     url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
     btn_label: "More"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: assets/images/clarity_branding.png
     alt: "placeholder image 1"
