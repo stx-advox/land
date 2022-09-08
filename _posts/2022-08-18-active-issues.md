@@ -5,8 +5,9 @@ categories:
   - Upcoming
 tags:
   - advoxgov
----
-
+excerpt: "Longterm Community Power & Innovation."
+body: 
+  - excerpt: ' 
 # Discord Consensus SoP
 
 **Issue Name:**
@@ -28,6 +29,53 @@ The following content is the current Standard of Procedure for using our clan de
 **Female 🐺 Clan** [Join Dialogue Here](https://discord.gg/HmSUtK9cwx) **Male 🐺 Clan** [Join Dialogue Here](https://discord.gg/p85wv7YRFQ)
 
 
-**Female 🐻 Clan** [Join Dialogue Here](https://discord.gg/X4bhPzBQvh) **Male 🐻 Clan** [Join Dialogue Here](https://discord.gg/9UXT8Ycq8T)
+**Female 🐻 Clan** [Join Dialogue Here](https://discord.gg/X4bhPzBQvh) **Male 🐻 Clan** [Join Dialogue Here](https://discord.gg/9UXT8Ycq8T)'
 
+feature_row:
+  - image_path: assets/images/clarity_branding.png
+    alt: "placeholder image 1"
+    title: "Clarity Community"
+    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language."
+    url: "https://github.com/stacksgov/residence-program/issues/25#issuecomment-1072339878"
+    btn_label: "More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/nfts_landing.png
+    alt: "placeholder image 2"
+    title: "NFTs & Stacks"
+    excerpt: "Explore and contribute to the Stacks NFT ecosystem."
+    url: "https://discord.gg/yyugHx4Sbg"
+    btn_label: "More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/sip_landing.png
+    title: "SIPs Community"
+    excerpt: "Contribute and amplify the Stacks Improvement Proposal processes."
+    url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
+    btn_label: "More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: assets/images/clarity_branding.png
+    alt: "placeholder image 1"
+    title: "Clarity Community"
+    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language."
+    url: "https://github.com/stacksgov/residence-program/issues/25#issuecomment-1072339878"
+    btn_label: "More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/nfts_landing.png
+    alt: "placeholder image 2"
+    title: "NFTs & Stacks"
+    excerpt: "Explore and contribute to the Stacks NFT ecosystem."
+    url: "https://discord.gg/yyugHx4Sbg"
+    btn_label: "More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/sip_landing.png
+    title: "SIPs Community"
+    excerpt: "Contribute and amplify the Stacks Improvement Proposal processes."
+    url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
+    btn_label: "More"
+    btn_class: "btn--primary"
+---
+{% include feature_row id="body" type="justify" %}
 
+{% include feature_row %}
+
+{% include feature_row2 %}
