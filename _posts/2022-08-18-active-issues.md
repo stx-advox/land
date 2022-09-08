@@ -22,6 +22,10 @@ The following content is the current Standard of Procedure for using our clan de
 
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
 
+section:
+   - excerpt: ' 
+# Female Clans'
+
 feature_row:
   - image_path: assets/images/beaturtle.png
     alt: "placeholder image 1"
@@ -43,6 +47,10 @@ feature_row:
     url: "https://discord.gg/X4bhPzBQvh"
     btn_label: "🐻Dialogues"
     btn_class: "btn--primary"
+
+section2:
+   - excerpt: ' 
+# Male Clans'
 
 feature_row2:
   - image_path: assets/images/beaturtle.png
@@ -67,6 +75,10 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 {% include feature_row id="body" type="justify" %}
+
+{% include feature_row id="section" type="center" %}
+
+{% include feature_row id="section2" type="center" %}
 
 {% include feature_row %}
 
