@@ -2,7 +2,7 @@
 title: "Upcoming-SoP"
 categories:
   - advoxGov
-  - Active
+  - Upcoming
 tags:
   - advoxgov
 ---
