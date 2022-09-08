@@ -20,58 +20,50 @@ The following content is the current Standard of Procedure for using our clan de
 
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
-# **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**
-
-**Female 🐢 Clan** [Join Dialogue Here](https://discord.gg/hqf27A8udR) **Male 🐢 Clan** [Join Dialogue Here](https://discord.gg/g2n5D4Np67)
-
-
-**Female 🐺 Clan** [Join Dialogue Here](https://discord.gg/HmSUtK9cwx) **Male 🐺 Clan** [Join Dialogue Here](https://discord.gg/p85wv7YRFQ)
-
-
-**Female 🐻 Clan** [Join Dialogue Here](https://discord.gg/X4bhPzBQvh) **Male 🐻 Clan** [Join Dialogue Here](https://discord.gg/9UXT8Ycq8T)'
+# **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
 
 feature_row:
-  - image_path: assets/images/clarity_branding.png
+  - image_path: assets/images/beaturtle.png
     alt: "placeholder image 1"
-    title: "Clarity Community"
-    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language."
-    url: "https://github.com/stacksgov/residence-program/issues/25#issuecomment-1072339878"
-    btn_label: "More"
+    title: "Female Turtle Clan"
+    excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
+    url: "https://discord.gg/hqf27A8udR"
+    btn_label: "🐢Dialogues"
     btn_class: "btn--primary"
-  - image_path: /assets/images/nfts_landing.png
+  - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
-    title: "NFTs & Stacks"
-    excerpt: "Explore and contribute to the Stacks NFT ecosystem."
-    url: "https://discord.gg/yyugHx4Sbg"
-    btn_label: "More"
+    title: "Female Bear Clan"
+    excerpt: "Always moving, path makers & facilitators of the ecosystem."
+    url: "https://discord.gg/HmSUtK9cwx"
+    btn_label: "🐺Dialogues"
     btn_class: "btn--primary"
-  - image_path: /assets/images/sip_landing.png
-    title: "SIPs Community"
-    excerpt: "Contribute and amplify the Stacks Improvement Proposal processes."
-    url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
-    btn_label: "More"
+  - image_path: /assets/images/IsaBear.png
+    title: "Female Bear Clan"
+    excerpt: "Bridges into the ecosystem, Folks who sustain the evolution of the ecosystem."
+    url: "https://discord.gg/X4bhPzBQvh"
+    btn_label: "🐻Dialogues"
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: assets/images/clarity_branding.png
+  - image_path: assets/images/beaturtle.png
     alt: "placeholder image 1"
-    title: "Clarity Community"
-    excerpt: "Learn, educate, amplify or build. STX's accessible smart contract language."
-    url: "https://github.com/stacksgov/residence-program/issues/25#issuecomment-1072339878"
-    btn_label: "More"
+    title: "Male Turtle Clan"
+    excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
+    url: "https://discord.gg/g2n5D4Np67"
+    btn_label: "🐢Dialogues"
     btn_class: "btn--primary"
-  - image_path: /assets/images/nfts_landing.png
+  - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
-    title: "NFTs & Stacks"
-    excerpt: "Explore and contribute to the Stacks NFT ecosystem."
+    title: "Male Wolf Clan"
+    excerpt: "Always moving, path makers & facilitators of the ecosystem."
     url: "https://discord.gg/yyugHx4Sbg"
-    btn_label: "More"
+    btn_label: "🐺Dialogues"
     btn_class: "btn--primary"
-  - image_path: /assets/images/sip_landing.png
-    title: "SIPs Community"
-    excerpt: "Contribute and amplify the Stacks Improvement Proposal processes."
-    url: "https://forum.stacks.org/t/09-weekly-sip-call-open-floor-discussion-sip-stacks-improvement-proposal/13610"
-    btn_label: "More"
+  - image_path: /assets/images/IsaBear.png
+    title: "Male Bear Clan"
+    excerpt: "Bridges into the ecosystem, Folks who sustain the evolution of the ecosystem."
+    url: "https://discord.gg/9UXT8Ycq8T"
+    btn_label: "🐻Dialogues"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="body" type="justify" %}
