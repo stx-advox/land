@@ -44,7 +44,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "#active-issues"
     excerpt: '#active-issues is where you will find different community governance proposals.'
-    url: "https://stx-advox.github.io/land/advoxgov/"
+    url: "/advoxgov"
     btn_label: "advoxGOV"
     btn_class: "btn--primary"
 
