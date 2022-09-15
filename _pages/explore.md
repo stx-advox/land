@@ -53,7 +53,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Community Creators"
     excerpt: 'Beloved community content creators, learn about everything happening in Stacks.'
-    url: "https://stx-advox.github.io/land/creators/"
+    url: "/creators"
     btn_label: "More"
     btn_class: "btn--primary"
     
