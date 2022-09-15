@@ -17,8 +17,8 @@ title: Stacks Advocates
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Our P2P contributions & evalutaions, Governance & DAO tools are all built right into the official STX discord.
-twitter_username: username
-github_username: username
+twitter_username: CentralValleyGJ
+github_username: harolddavis3
 minimal_mistakes_skin: dark
 search: true
 
@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Harold Davis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Researcher at Stacks Gov Lab"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://harolddavis3.github.io/Two-Row-Wampum-Social-Layer-Platform/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/CentralValleyGJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/harolddavis3"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/"
       
 
 header:
@@ -82,13 +82,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/StacksAdvoxDAO"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/stx-advox"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -115,4 +115,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-repository: "stx-advox/.io"
+repository: "stx-advox/land"
