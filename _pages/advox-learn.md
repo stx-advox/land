@@ -52,25 +52,12 @@ body3:
 
 ### The recursion of Turtle, Wolf, & Bear
 
-Turtle is first in the ordered sequence, with all the elements of Wolf & Bear therein. Wolf & Bear are twins. Wolf coming before Bear in the sequence. This hints at a dynamic use of the three tiered system design rather than static. All three clans have a kind of  “memory” of one another, to be executed when needed in formal or informal social organization. Although one may be Turtle clan officially, in a given interaction, they may be best suited to assume their Wolf or Bear functions too.'
+- Turtle is first in the ordered sequence, with all the elements of Wolf & Bear therein. 
+- Wolf & Bear are twins. Wolf coming before Bear in the sequence. This hints at a dynamic use of the three tiered system design rather than static.
+- All three clans have a kind of  “memory” of one another, to be executed when needed in formal or informal social organization.
+- Although one may be Turtle clan officially, in a given interaction, they may be best suited to assume their Wolf or Bear functions too.'
 
 body4:
-  - excerpt: '
-
-# Background 
-Turtle, Wolf, & Bear Relationship, Governance, & Sustainability
-
-Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienkehaka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
-
-We have rare access to these protocols in pre-colonial form. We realize there was an entire culture of checks & balances omitted from our modern systems of social organization & representation, precisely due to lack of peaceful dialogue with Native nations.
-
-Turtle, Wolf & Bear are our first steps on a path to a decolonized dialogue that can enable authentic alternatives to conventional governance, which is often easier said than actually achieved. TWB is the three tiered clan system of the Kanienkehaka, which for millennia carved empowered paths of bottom up representation for entire Native nations. Speaking to deep cosmological functions of organization, the protocols are designed to maximize modularity for any collective of autonomous organizations.
-
-Even though not all of us are interested in governance, accessible structures designed for empowered voices & representation are fundamental to fair power distribution. With TWB tapping into deep functions of the STX ecosystem, we can leverage autonomous organization well beyond just governance benefits & into blockchain innovation sustainability. Bottom up power here includes built-in structures for innovation decoupled from top down, value alienating control.
-
-As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.'
-
-body5:
   - excerpt: '
 
 # Advox Clan Governance 
@@ -112,11 +99,24 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/big-frens.png
     alt: "placeholder image 2"
-    title: "Big Frens & Lil Frens"
+    title: "Big & Lil Frens🤍"
     excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system.'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
     btn_label: "Register"
     btn_class: "btn--primary"
+
+body5:
+  - excerpt: '
+
+# Background 
+
+**Turtle, Wolf, & Bear Relationship, Governance, & Sustainability**
+
+- Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienkehaka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
+- We have rare access to these protocols in pre-colonial form. We realize there was an entire culture of checks & balances omitted from our modern systems of social organization & representation, precisely due to lack of peaceful dialogue with Native nations.
+- Turtle, Wolf & Bear are our first steps on a path to a decolonized dialogue that can enable authentic alternatives to conventional governance, which is often easier said than actually achieved. TWB is the three tiered clan system of the Kanienkehaka, which for millennia carved empowered paths of bottom up representation for entire Native nations. Speaking to deep cosmological functions of organization, the protocols are designed to maximize modularity for any collective of autonomous organizations.
+- Even though not all of us are interested in governance, accessible structures designed for empowered voices & representation are fundamental to fair power distribution. With TWB tapping into deep functions of the STX ecosystem, we can leverage autonomous organization well beyond just governance benefits & into blockchain innovation sustainability. Bottom up power here includes built-in structures for innovation decoupled from top down, value alienating control.
+- As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.'
 ---
 
 {% include feature_row id="feature_row2" type="justify" %}
