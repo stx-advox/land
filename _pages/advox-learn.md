@@ -7,8 +7,6 @@ class: wide
 intro:
   - excerpt: '
 
-## AdvoxDAO Big & Lil Frens
-
 ### Advox Clan System'
 
 body:
@@ -101,10 +99,10 @@ feature_row2:
   - image_path: /assets/images/big-frens.png
     alt: "placeholder image 2"
     title: "Big Frens🤍 Registration"
-    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system. 
+    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member & we want to ensure every new member has a warm welcoming experience into the community no matter how much we grow. Register below to participate in our round robin onboarding system. 
 
 - **Overview:** 
-Building on the success of the current Welcome/Join Request flow, "Big /Little Frens" is a round robin system to welcome new members more personally to the Stacks AdvoxDAO community. 
+Big & Lil Frens is a round robin system, to welcome new members more personally into the Stacks AdvoxDAO community. 
 
 
 - **lil Fren Period:** 
@@ -118,9 +116,14 @@ Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity)
 
  - Make new joiner feel even more welcomed with personal touch - Help new joiner to weave more seamlessly into the Stacks Advocates so the whole thing is less intimidating thereby increase the accessibility & participation rate 
 
+
 **Involves:** 
 
-- Be there for the new joiner for any question (DM or public) about Adv program - Info & encourage new joiner to come to the Stacks Adv community calls - Summarize what Stacks Adv is about and how to involve in this space 
+- Be there for the new member for any question (DM or public) about AdvoxDAO
+
+- Info & encourage new joiner to come to the Stacks Adv community calls
+
+- Summarize what Stacks Adv is about and how to involve in this space 
  
 - **Wk 1, Day 01:**
 Arrange a 30 minutes call to introduce Advocates program at the beginning of the week (timing up to your availabilities) 
@@ -140,7 +143,8 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 6. Remind all attendees to follow the Stacks Social Media pages
 
-Any questions or thoughts? + freestyle & your own creativity Mid week: Briefly check-in DM or public to see if new joiner is ok'
+
+**Repeat for WK2** Use your own creativity Mid week: Briefly check-in DM or public to see if new member is ok'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
     btn_label: "Register"
     btn_class: "btn--primary"
