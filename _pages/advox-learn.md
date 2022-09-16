@@ -2,7 +2,6 @@
 title: "AdvoxLEARN"
 layout: single
 permalink: /advoxlearn/
-toc: true
 class: wide
 feature_row2:
   - image_path: /assets/images/big-frens.png
