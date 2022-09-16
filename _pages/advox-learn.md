@@ -37,7 +37,7 @@ The Bear clan’s key functions are **_ensuring the growth or evolution of compl
 body2:
   - excerpt: '
 
-### The recursion of Turtle, Wolf, & Bear
+### The Dynamics
 
 - Turtle is first in the ordered sequence, with all the elements of Wolf & Bear therein. 
 
