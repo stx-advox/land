@@ -35,7 +35,7 @@ feature_row3:
   - image_path: /assets/images/didathing.gif
     alt: "placeholder image 2"
     title: "#did-a-thing"
-    excerpt: '#did-a-thing channel will show you tons of diverse contributions. Examples of the great efforts you can contribute to the ecosystem'
+    excerpt: '#did-a-thing channel will show you tons of diverse contributions. An official community space of p2p evaluations of efforts you can contribute to the ecosystem. Get weekly AdvoxDAO STX pool reward distributions'
     url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
     btn_label: "Apply Now"
     btn_class: "btn--primary"
