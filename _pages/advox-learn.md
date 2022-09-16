@@ -74,11 +74,13 @@ body5:
   - excerpt: '
 
 # Advox Clan Governance 
+
 - Active Issues is where you’ll find the clans coming into play, see different community governance proposals to learn why the advocates program is the way it is now.
 - But also participate through your clan role, and have your voice heard at the heart of AdvoxDAO decision making processes
 - Clan traits alos play a critical role is our consesnus tools shown below. Leveraging Harvard/Oxford Metagov research groups PolicyKit.
 
 ## Web3GovTools
+
 - We managed to build PolicyKit interactions right into the discord for users, with the post author’s thread updates being uploaded to PK seamlessly. 
 
 
@@ -117,7 +119,7 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" type="justify" %}
 
 {% include feature_row id="intro" type="justify" %}
 
