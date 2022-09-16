@@ -7,7 +7,10 @@ class: wide
 intro:
   - excerpt: '
 
-## Advox Clan System
+## Advox Clan System'
+
+body:
+  - excerpt: '
 
 ### 🐢Commons Loop Closing
 
@@ -23,10 +26,7 @@ One step removed from direct facilitation of the other clans, and with a keen en
 
   
 
-So this speaks to the sometimes abstract closed loops of governance protocols or community value circulation. It also includes the tangible closed loops needed in ecological sustainability the world over. Ensuring long term Commons sustainability of many variations is built right into our Stacks Advocates system. Turtles validate that these variations are aligned with core values.'
-
-body:
-  - excerpt: '
+So this speaks to the sometimes abstract closed loops of governance protocols or community value circulation. It also includes the tangible closed loops needed in ecological sustainability the world over. Ensuring long term Commons sustainability of many variations is built right into our Stacks Advocates system. Turtles validate that these variations are aligned with core values.
 
 ### 🐺Commons Accessibility
 
