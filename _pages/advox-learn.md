@@ -53,8 +53,11 @@ body3:
 ### The recursion of Turtle, Wolf, & Bear
 
 - Turtle is first in the ordered sequence, with all the elements of Wolf & Bear therein. 
+
 - Wolf & Bear are twins. Wolf coming before Bear in the sequence. This hints at a dynamic use of the three tiered system design rather than static.
+
 - All three clans have a kind of  “memory” of one another, to be executed when needed in formal or informal social organization.
+
 - Although one may be Turtle clan officially, in a given interaction, they may be best suited to assume their Wolf or Bear functions too.'
 
 body4:
@@ -63,24 +66,33 @@ body4:
 # Advox Clan Governance 
 
 - Active Issues is where you’ll find the clans coming into play, see different community governance proposals to learn why the advocates program is the way it is now.
+
 - But also participate through your clan role, and have your voice heard at the heart of AdvoxDAO decision making processes
+
 - Clan traits alos play a critical role is our consesnus tools shown below. Leveraging Harvard/Oxford Metagov research groups PolicyKit.
 
 ## Web3GovTools
 
 - We managed to build PolicyKit interactions right into the discord for users, with the post author’s thread updates being uploaded to PK seamlessly. 
 
-
 ![](https://paper-attachments.dropbox.com/s_D9C6AB1F126058A4F860A7F8545E04CE86C4CE3483D1C476A433A596927478BD_1648493089424_Hz+Gov.png)
 
 - As a user I should be able to start an issue by posting in [#active-issues](https://paper.dropbox.com/?q=%23active-issues)
+
 - As a user I should be able to see a help text telling me what the process is gonna be like
+
 - As a user I should be able to discuss and make edits to the original issue that being the message
+
 - As a user I should be able to see the last revision of the issue in the [#formal-proposals](https://paper.dropbox.com/?q=%23formal-proposals) channel after the period of discussion expires
+
 - As a user I should be able to dissent to the formal proposal during the voting period
+
 - As a user I should be able to know who dissented on a resolution
+
 - As a non contributor I should be able to dissent even tho my vote does not count
+
 - As a user I should be able to join the governance process of a specific issue by reacting with 👀
+
 - As a user I should be able to see if the proposal has passed or failed
 
 # System Design Ethos
@@ -113,9 +125,13 @@ body5:
 **Turtle, Wolf, & Bear Relationship, Governance, & Sustainability**
 
 - Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienkehaka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
+
 - We have rare access to these protocols in pre-colonial form. We realize there was an entire culture of checks & balances omitted from our modern systems of social organization & representation, precisely due to lack of peaceful dialogue with Native nations.
+
 - Turtle, Wolf & Bear are our first steps on a path to a decolonized dialogue that can enable authentic alternatives to conventional governance, which is often easier said than actually achieved. TWB is the three tiered clan system of the Kanienkehaka, which for millennia carved empowered paths of bottom up representation for entire Native nations. Speaking to deep cosmological functions of organization, the protocols are designed to maximize modularity for any collective of autonomous organizations.
+
 - Even though not all of us are interested in governance, accessible structures designed for empowered voices & representation are fundamental to fair power distribution. With TWB tapping into deep functions of the STX ecosystem, we can leverage autonomous organization well beyond just governance benefits & into blockchain innovation sustainability. Bottom up power here includes built-in structures for innovation decoupled from top down, value alienating control.
+
 - As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.'
 ---
 
