@@ -7,11 +7,6 @@ class: wide
 intro:
   - excerpt: '
 
-## Big Frens - Lil Frens
-Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system. 
-
-
-
 ## Advox Clan System
 
 ### 🐢Commons Loop Closing
@@ -116,11 +111,14 @@ feature_row2:
   - image_path: /assets/images/big-frens.png
     alt: "placeholder image 2"
     title: "Big Frens & Lil Frens"
-    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system. .'
+    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system.'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
-    btn_label: "Apply Now"
+    btn_label: "Register"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="feature_row2" type="center" %}
+
 {% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
