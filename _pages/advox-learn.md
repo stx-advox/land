@@ -14,26 +14,26 @@ body:
 
 ### 🐢Commons Loop Closing
 
-- We can think of the Turtle clan as master architects & engineers that hold the blueprints …but in this case the house is on a planetary scale. Key characteristics or functions of Turtles in a system are **_observation & validation_**.
+- We can think of the Turtle clan as master architects that hold the blueprints …but in this case the house is on a global web3 scale. Key characteristics or functions of Turtles in a system are **_observation & validation_**.
 
 - Whether in formal decision making or informal organization, Turtles are the ones who observe deliberation between Wolf and Bear and validate whether protocols were followed. In an informal interaction, for example, the Turtle will be the quiet one during a dialogue, waiting until the end to weigh the dialogue against the core values of the system.
 
-- One step removed from direct facilitation of the other clans, and with a keen engineering eye, Turtles make for the ideal trackers of closed loops of values. So Turtles are tracking the dialogue and sense-making between clans to ensure integrity of the system, to ensure value is circulated to where generators of that value work and live, and to ensure that there is no pure extraction in the system design. 
+- One step removed from direct facilitation or engineering of the other clans, and with a keen engineering eye, Turtles make for the ideal trackers of closed loops of values. So Turtles are tracking the dialogue and sense-making between clans to ensure integrity of the system, to ensure value is circulated to where generators of that value work and live, and to ensure that there is no pure extraction in the system design. 
 
 -  So this speaks to the sometimes abstract closed loops of governance protocols or community value circulation. It also includes the tangible closed loops needed in ecological sustainability the world over. Ensuring long term Commons sustainability of many variations is built right into our Stacks Advocates system. Turtles validate that these variations are aligned with core values.
 
 
 ### 🐺Commons Accessibility
 
-Wolf clan can be thought of as initiators, the constantly moving facilitators of Commons accessibility. The sparks for deliberation of important issues or actions; the guides for empowered paths of information dissemination. Key function being **_to gather the minds and voices of generators of value in consensus_**.
-  
-In formal decision making protocols it is a Wolf clan representative who initiates processes; bringing issues to the floor. Deliberation, if at all needed, happens between Wolf & Bear clans while the Turtle clan observes before validation or further deliberation. Wolf clan’s informal social organization function revolves around providing direct access to Commons to anybody interested. Whether the Commons of empowered bottom up consensus decision making or the Commons of innovation and value(s) circulation in the Stacks Advocates ecosystem. This empowered accessibility functions as a regenerating catalyst to push ecosystems forward.
+- Wolf clan can be thought of as initiators, the constantly moving facilitators of Commons accessibility. The sparks for deliberation of important issues or actions; the guides for empowered paths of information dissemination. Key function being **_to gather the minds and voices of generators of value in consensus_**.
+
+- In formal decision making protocols it is a Wolf clan representative who initiates processes; bringing issues to the floor. Deliberation, if at all needed, happens between Wolf & Bear clans while the Turtle clan observes before validation or further deliberation. Wolf clan’s informal social organization function revolves around providing direct access to Commons to anybody interested. Whether the Commons of empowered bottom up consensus decision making or the Commons of innovation and value(s) circulation in the Stacks Advocates ecosystem. This empowered accessibility functions as a regenerating catalyst to push ecosystems forward.
 
 ### 🐻Commons Evolution
 
-Bear clan is simple, just think of it as effective medicine. Then think of medicine in all its possible forms; even the function of good friendship or guidance. Bears are the masters of transformative potential and effective transition. Key for our Stacks ecosystem, focused on OSS in Can’t Be Evil design & engineering, for a user-empowered internet. Transformation away from conventional models is fundamental for folks coming into our ecosystem, but just as important for our system too.  
+- Bear clan is simple, just think of it as effective medicine. Then think of medicine in all its possible forms; even the function of good friendship or guidance. Bears are the masters of transformative potential and effective transition. Key for our Stacks ecosystem, focused on OSS in Can’t Be Evil design & engineering, for a user-empowered internet. Transformation away from conventional models is fundamental for folks coming into our ecosystem, but just as important for our system too.
 
-The Bear clan’s key functions are **_ensuring the growth or evolution of complex systems are healthy_**. Bears are responsible for the bridgework away from harmful structures… but they are also responsible for ensuring we don’t move too hastily into paradigm-shifting innovation. Bears are the medicine necessary for slowing down the process of change while doing due diligence to harvest and repurpose institutional leftovers on the careful terms of the community.'  
+- The Bear clan’s key functions are **engineering the growth or evolution of complex systems are healthy_**. Bears are responsible for the bridgework away from harmful structures… but they are also responsible for ensuring we don’t move too hastily into paradigm-shifting innovation. Bears are the medicine necessary for slowing down the process of change while doing due diligence to harvest and repurpose institutional leftovers on the careful terms of the community.'  
 body2:
   - excerpt: '
 
@@ -99,7 +99,41 @@ feature_row2:
   - image_path: /assets/images/big-frens.png
     alt: "placeholder image 2"
     title: "Big & Lil Frens🤍"
-    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system.'
+    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system. Overview: Building on the success of the current Welcome/Join Request flow, "Big /Little Frens" is a round robin system to welcome new members more personally to the Stacks AdvoxDAO community. 
+
+**lil Fren Period:** 
+2 weeks from joining 
+
+**Est. time involved:** 
+Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity) 
+
+ 
+**Goal:**
+
+ - Make new joiner feel even more welcomed with personal touch - Help new joiner to weave more seamlessly into the Stacks Advocates so the whole thing is less intimidating thereby increase the accessibility & participation rate 
+
+**Involves:** 
+
+- Be there for the new joiner for any question (DM or public) about Adv program - Info & encourage new joiner to come to the Stacks Adv community calls - Summarize what Stacks Adv is about and how to involve in this space 
+ 
+**Wk 1, Day 01:**
+Arrange a 30 minutes call to introduce Advocates program at the beginning of the week (timing up to your availabilities) 
+
+**Items to introduce:** 
+ 
+1. Brief intro about each other, & Stacks Adv program to-date & in the future 
+ 
+2. Brief overview of how to use #didathing and #props & how Turtle Wolf Bear works 
+ 
+3. Various community calls on different topics, encourage new joiner to hop on the calls, can subscribe to Events & Amplify for notification reminders. 
+
+4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here)
+
+5. Inform and walkthrough Grants & Residency options 
+
+6. Remind all attendees to follow the Stacks Social Media pages
+
+Any questions or thoughts? + freestyle & your own creativity Mid week: Briefly check-in DM or public to see if new joiner is ok'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
     btn_label: "Register"
     btn_class: "btn--primary"
