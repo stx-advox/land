@@ -1,7 +1,7 @@
 main:
   - title: "Chapters"
     url: /chapters/
-  - title: "Dework"
+  - title: "Tasks"
     url: /dework/
   - title: "Explore"
     url: /explore/
@@ -9,7 +9,7 @@ main:
     url: /advoxlearn/
   - title: "advoxGOV"
     url: /advoxgov/   
-  - title: "Docs"
+  - title: "docs"
     url: /docs/    
   - title: "About"
     url: /about/
