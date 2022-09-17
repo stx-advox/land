@@ -27,7 +27,7 @@ feature_row2:
   - image_path: /assets/images/welcome.gif
     alt: "placeholder image 2"
     title: "#welcome"
-    excerpt: 'An Advocates interview, AdvoxDAO will help you find your place in Stacks.'
+    excerpt: 'An AdvoxDAO interview, we will help find your place in Stacks💯.'
     url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
     btn_label: "Apply Now"
     btn_class: "btn--primary"
@@ -35,7 +35,7 @@ feature_row3:
   - image_path: /assets/images/didathing.gif
     alt: "placeholder image 2"
     title: "#did-a-thing"
-    excerpt: '#did-a-thing channel will show you tons of diverse contributions. An official community space for p2p evaluations of your efforts can in the ecosystem. Get weekly AdvoxDAO STX pool reward distributions'
+    excerpt: 'Our #did-a-thing channel will show you tons of diverse contributions. Our official community space for p2p evaluations of your efforts can in the ecosystem. Get weekly AdvoxDAO STX pool reward distributions'
     url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
     btn_label: "Apply Now"
     btn_class: "btn--primary"
@@ -75,7 +75,7 @@ body:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="justify" %}
+{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="left" %}
 
