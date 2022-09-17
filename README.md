@@ -75,7 +75,7 @@ body:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="justify" %}
 
 {% include feature_row id="feature_row4" type="left" %}
 
