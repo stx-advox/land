@@ -7,7 +7,10 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png
-excerpt: "Motivated Community Contributions. Stacking Pool Rewards Distribution. Longterm Community Power & Innovation."
+excerpt: "
+Motivated Community Contributions. 
+Stacking Pool Rewards Distribution. 
+Longterm Community Power & Innovation."
 intro: 
   - excerpt: '
 
