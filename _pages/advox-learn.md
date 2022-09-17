@@ -29,9 +29,9 @@ Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity)
 
 - Be there for the new member for any question (DM or public) about AdvoxDAO
 
-- Info & encourage new joiner to come to the Stacks Adv community calls
+- Inform & encourage new members to come to the AdvoxDAO community calls
 
-- Summarize what Stacks Adv is about and how to involve in this space 
+- Summarize what AvoxDAO is about & how to get involved in this space 
  
 - **Wk 1, Day 01:**
 Arrange a 30 minutes call to introduce Advocates program at the beginning of the week (timing up to your availabilities) 
@@ -39,15 +39,15 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 **Items to introduce:** 
  
-1. Brief intro about each other, & Stacks Adv program to-date & in the future 
+1. Brief intro about each other, & AdvoxDAO program to-date & in the future 
  
-2. Brief overview of how to use #didathing and #props & how Turtle Wolf Bear works 
+2. Brief overview of how to use #didathing and #props & how Turtle, Wolf, & Bear works 
  
-3. Various community calls on different topics, encourage new joiner to hop on the calls, can subscribe to Events & Amplify for notification reminders. 
+3. Various community calls on different topics, encourage new member to hop on the calls, can subscribe to Events & Amplify for notification reminders. 
 
 4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here)
 
-5. Inform and walkthrough Grants & Residency options 
+5. Inform about & walkthrough Grants & Residency options 
 
 6. Remind all attendees to follow the Stacks Social Media pages
 
