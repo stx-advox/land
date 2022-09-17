@@ -8,9 +8,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png
 excerpt: "
-Motivated Community Contributions. 
-Stacking Pool Rewards Distribution. 
-Longterm Community Power & Innovation."
+- Motivated Community Contributions
+ 
+- Stacking Pool Rewards Distribution 
+
+- Longterm Community Power & Innovation"
 intro: 
   - excerpt: '
 
@@ -51,7 +53,7 @@ feature_row4:
   - image_path: /assets/images/active-issues.gif
     alt: "placeholder image 2"
     title: "#active-issues"
-    excerpt: 'Our #active-issues channel is where you will find different community governance proposals.'
+    excerpt: 'Our #active-issues channel, for community governance proposals.'
     url: "/advoxgov"
     btn_label: "advoxGOV"
     btn_class: "btn--primary"
