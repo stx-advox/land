@@ -48,7 +48,7 @@ feature_row4:
   - image_path: /assets/images/active-issues.gif
     alt: "placeholder image 2"
     title: "#active-issues"
-    excerpt: '#active-issues is where you will find different community governance proposals.'
+    excerpt: 'Our #active-issues channel is where you will find different community governance proposals.'
     url: "/advoxgov"
     btn_label: "advoxGOV"
     btn_class: "btn--primary"
@@ -78,10 +78,10 @@ body:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="body" type="justify" %}
