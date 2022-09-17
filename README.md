@@ -27,7 +27,7 @@ feature_row2:
   - image_path: /assets/images/welcome.gif
     alt: "placeholder image 2"
     title: "#welcome"
-    excerpt: 'An AdvoxDAO interview, we will help find your place in Stacks💯.'
+    excerpt: 'An AdvoxDAO interview, we will help find your place in Stacks 💯'
     url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
     btn_label: "Apply Now"
     btn_class: "btn--primary"
