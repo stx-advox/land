@@ -23,6 +23,8 @@ We spotted some people to people issues in the community.
 - **Artifacts & References:** 
 [Conflict Resolution Issue Draft](https://paper.dropbox.com/doc/Advocates-Oral-CoC-Protocol--BoAQ1IORaFa0gMYLvwawyxdzAg-PqaS7paEI3ibcGWhJNLVv)
 
+
+
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
