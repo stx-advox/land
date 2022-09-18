@@ -21,6 +21,8 @@ The following content is the current Standard of Procedure for using our clan de
 - **Artifacts & References:** 
 [SoP](https://paper.dropbox.com/doc/Active-Issues-SoP--BnhAcQsenH1m68lo0WBvX207AQ-w6vSFVT8YjpdYDWxS6Svo)
 
+
+
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
