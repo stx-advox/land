@@ -34,6 +34,8 @@ We will give time in a community session in the week of 9/19-9/23 for selection 
 
 6. Clans reps are both selected & removed when needed with our consensus tools described above. 
 
+
+
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
