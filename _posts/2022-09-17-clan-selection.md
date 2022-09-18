@@ -55,7 +55,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
-    title: "Female Bear Clan"
+    title: "Female Wolf Clan"
     excerpt: "Always moving, path makers & facilitators of the ecosystem."
     url: "https://discord.gg/HmSUtK9cwx"
     btn_label: "🐺Dialogues"
