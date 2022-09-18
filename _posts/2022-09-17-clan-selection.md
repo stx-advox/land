@@ -1,8 +1,9 @@
 ---
-title: "Upcoming Clan Representatives Issue "
+title: "Upcoming Clan Reps Issue "
 categories:
   - advoxGov
   - Upcoming
+  - Clans
 tags:
   - advoxgov
 
