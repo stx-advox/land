@@ -22,6 +22,18 @@ We will give time in a community session in the week of 9/19-9/23 for selection 
 [AdvoxDAO Reps Issue working doc](https://paper.dropbox.com/doc/Reps-Selection-Issue--BpXcfhc11N~nIdzvIj7Z1pPBAQ-OaruTyFFf90TsPeZDvv13)
 
 
+1. We have 3 clans but need to select 6 representatives to ensure our autonomous decision making goals are met. 3 Female Reps 3 Male Reps. 
+
+2. All clan reps will be temporary but must have basic understanding of our Turtle, Wolf and Bear [clan model](https://discord.com/channels/621759717756370964/916371047102705704/1012059812130992128). 
+
+3. All Reps must be consistently available for monthly facilitation of active AdvoxDAO issues described below. Sub reps can be chosen by reps for support in facilitation & emergency absence. 
+
+4. The Clan Reps have different simple actions to be taken in AdvoxDAO discord channels to ensure we smoothly complete our consensus decision making flows. 
+
+5. Our latest SoP is [here](https://advox-dao.com/advoxgov/upcoming/active-issues/).
+
+6. Clans reps are both selected & removed when needed with our consensus tools described above. 
+
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
