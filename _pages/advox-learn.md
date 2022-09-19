@@ -6,8 +6,8 @@ class: wide
 feature_row2:
   - image_path: /assets/images/big-frens.png
     alt: "placeholder image 2"
-    title: "Register as AdvoxDAO Big Fren 🤍"
-    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member & we want to ensure every new member has a warm welcoming experience into the community no matter how much we grow. Register below to participate in our round robin onboarding system. 
+    title: "AdvoxDAO Big Frens 🤍"
+    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member. We want to ensure every new member has a warm welcoming experience into the community no matter how much we grow. We are asking AdvoxDAO members to return the warm favor. Register below to enter our round robin onboarding system. 
 
 - **Overview:** 
 Big & Lil Frens is a round robin system, to welcome new members more personally into the Stacks AdvoxDAO community. 
