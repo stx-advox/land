@@ -29,6 +29,7 @@ body:
 
 - In formal decision making protocols it is a Wolf clan representative who initiates processes; bringing issues to the floor. Deliberation, if at all needed, happens between Wolf & Bear clans while the Turtle clan observes before validation or further deliberation. Wolf clan’s informal social organization function revolves around providing direct access to Commons to anybody interested. Whether the Commons of empowered bottom up consensus decision making or the Commons of innovation and value(s) circulation in the Stacks Advocates ecosystem. This empowered accessibility functions as a regenerating catalyst to push ecosystems forward.
 
+
 ### 🐻Commons Evolution
 
 - Bear clan is simple, just think of it as effective medicine. Then think of medicine in all its possible forms; even the function of good friendship or guidance. Bears are the masters of transformative potential and effective transition. Key for our Stacks ecosystem, focused on OSS in Can’t Be Evil design & engineering, for a user-empowered internet. Transformation away from conventional models is fundamental for folks coming into our ecosystem, but just as important for our system too.
@@ -98,6 +99,7 @@ feature_row:
 
 body4:
   - excerpt: '
+
 # Background 
 
 **Turtle, Wolf, & Bear Relationship, Governance, & Sustainability**
