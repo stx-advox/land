@@ -55,16 +55,8 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 **Repeat for WK2** Use your own creativity Mid week: Briefly check-in DM or public to see if new member is ok'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
     btn_label: "Register"
-    btn_class: "btn--primary"
-
-
-**AdvoxDAO Resources**
-    url: "https://advox-dao.com/advoxres/"
-    btn_label: "Resources"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary" 
 ---
-
-{% include feature_row id="feature_row2" type="justify" %}
 
 {% include feature_row id="intro" type="justify" %}
 
