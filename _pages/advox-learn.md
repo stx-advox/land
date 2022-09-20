@@ -58,6 +58,8 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
     btn_class: "btn--primary" 
 ---
 
+{% include feature_row id="feature_row2" type="justify" %}
+
 {% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
