@@ -70,11 +70,3 @@ feature_row3:
 {% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
-
-{% include feature_row id="body" type="justify" %}
-
-{% include feature_row id="body2" type="justify" %}
-
-{% include feature_row id="body3" type="justify" %}
-
-{% include feature_row id="body4" type="justify" %}
