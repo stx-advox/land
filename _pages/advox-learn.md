@@ -22,7 +22,7 @@ Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity)
  
 **Goal:**
 
- - Make new joiner feel even more welcomed with personal touch - Help new joiner to weave more seamlessly into the Stacks Advocates so the whole thing is less intimidating thereby increase the accessibility & participation rate 
+ - Make new member feel even more welcomed with a personal touch - Help new joiner to weave more seamlessly into the Stacks Advocates so the whole thing is less intimidating thereby increase the accessibility & participation rate 
 
 
 **Involves:** 
