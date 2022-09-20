@@ -95,48 +95,6 @@ feature_row:
     
   - image_path: /assets/images/IsaBear.png
     alt: "placeholder image 3"
-feature_row2:
-  - image_path: /assets/images/big-frens.png
-    alt: "placeholder image 2"
-    title: "Big & Lil Frens🤍"
-    excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member and we want to ensure every new member also has a warm welcoming experience into the community. Below we will ask a couple questions to kick off our round robin onboarding system. Overview: Building on the success of the current Welcome/Join Request flow, "Big /Little Frens" is a round robin system to welcome new members more personally to the Stacks AdvoxDAO community. 
-
-**lil Fren Period:** 
-2 weeks from joining 
-
-**Est. time involved:** 
-Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity) 
-
- 
-**Goal:**
-
- - Make new joiner feel even more welcomed with personal touch - Help new joiner to weave more seamlessly into the Stacks Advocates so the whole thing is less intimidating thereby increase the accessibility & participation rate 
-
-**Involves:** 
-
-- Be there for the new joiner for any question (DM or public) about Adv program - Info & encourage new joiner to come to the Stacks Adv community calls - Summarize what Stacks Adv is about and how to involve in this space 
- 
-**Wk 1, Day 01:**
-Arrange a 30 minutes call to introduce Advocates program at the beginning of the week (timing up to your availabilities) 
-
-**Items to introduce:** 
- 
-1. Brief intro about each other, & Stacks Adv program to-date & in the future 
- 
-2. Brief overview of how to use #didathing and #props & how Turtle Wolf Bear works 
- 
-3. Various community calls on different topics, encourage new joiner to hop on the calls, can subscribe to Events & Amplify for notification reminders. 
-
-4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here)
-
-5. Inform and walkthrough Grants & Residency options 
-
-6. Remind all attendees to follow the Stacks Social Media pages
-
-Any questions or thoughts? + freestyle & your own creativity Mid week: Briefly check-in DM or public to see if new joiner is ok'
-    url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
-    btn_label: "Register"
-    btn_class: "btn--primary"
 
 body4:
   - excerpt: '
@@ -154,8 +112,6 @@ body4:
 
 - As STX advocates, we recognize this as a historical chance to achieve distributed power in blockchain based systems. An important means for long term sustainability in blockchain systems. Hope you are as excited as we are to learn and build together in this indigenous dialogue for sustainable protocols of organization.'
 ---
-
-{% include feature_row id="feature_row2" type="justify" %}
 
 {% include feature_row id="intro" type="justify" %}
 
