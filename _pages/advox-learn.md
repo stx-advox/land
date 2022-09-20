@@ -58,6 +58,7 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
     btn_class: "btn--primary" 
 feature_row3:
   - title: "More AdvoxDAO Resources 🤍"
+    url: "https://advox-dao.com/advoxres/"
     btn_label: "Resources"
     btn_class: "btn--primary" 
     
