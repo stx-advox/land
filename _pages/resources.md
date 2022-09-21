@@ -83,6 +83,18 @@ body3:
 
 - As a user I should be able to see if the proposal has passed or failed
 
+### CommunityDAO Features 
+
+![micro-dao.png](https://github.com/stx-advox/land/blob/master/assets/images/micro-dao.png?raw=true)
+
+- on-chain transactions right inside discord for AdvoxDAO users. 
+
+- Short readable and open source Clarity contracts enabling users to send stx & other crytpo to one another with their .btc names. 
+
+- Also users can create on-chain funding proposals, create microDAOs, execute funding on DAOs etc. 
+
+- A unique approach to AdvoxDAO commununity engagement, and quality support Stacks Grants programs!
+
 ### System Design Ethos
 
 ![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpg?raw=true)'
