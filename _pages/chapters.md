@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png 
 excerpt: "AdvoxDAO Chapters Cohort #1"
-feature_row1: 
-  - excerpt: '
 
-### Cohort #1 Registration
+feature_row1: 
+  - title: "Cohort #1 Registration"
+    excerpt: '
 
 We’re excited to begin assisting you on your journey through the Stacks ecosystem!We’ve created an intuitive onboarding process, that we hope can help you in learning more about Stacks and discover the many parts of the powerful ecosystem. As such, you’ve been selected to participate in the first AdvoxDAO cohort of Stacks Chapters. 
 
