@@ -22,17 +22,10 @@ Member contributions are evaluated weekly by peers to determine distributions of
     url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
     btn_label: "Register"
     btn_class: "btn--primary" 
-feature_row3:
-  - title: "More AdvoxDAO Resources 🤍"
-    url: "https://advox-dao.com/advoxres/"
-    btn_label: "Resources"
-    btn_class: "btn--primary" 
-    
+     
 ---
 
 {% include feature_row id="feature_row2" type="justify" %}
-
-{% include feature_row id="feature_row3" type="justify" %}
 
 {% include feature_row id="intro" type="justify" %}
 
