@@ -7,7 +7,10 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png
-excerpt: "AdvoxDAO Chapter Cohort #1"
+url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
+btn_label: "Register"
+btn_class: "btn--primary" 
+excerpt: "AdvoxDAO Chapters Cohort #1"
 intro: 
   - excerpt: '
 
@@ -22,9 +25,6 @@ As an Advocate member, you will have a community-curated introduction and walkth
 
 
 Member contributions are evaluated weekly by peers to determine distributions of rewards from our AdvoxDAO stacking pool.'
-url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
-btn_label: "Register"
-btn_class: "btn--primary" 
 ---
 
 {% include feature_row id="intro" type="justify" %}
