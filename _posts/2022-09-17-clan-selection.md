@@ -28,11 +28,11 @@ We will give time in a community session in the week of 9/19-9/23 for selection 
 
 3. All Reps must be consistently available for monthly facilitation of active AdvoxDAO issues described below. Sub reps can be chosen by reps for support in facilitation & emergency absence. 
 
-4. The Clan Reps have different simple actions to be taken in AdvoxDAO discord channels to ensure we smoothly complete our consensus decision making flows. 
+4. The Clan Reps have different simple actions to be taken in AdvoxDAO discord channels, priority for reps is ensuring we complete our consensus decision making flows while accurately representing community vooice.
 
-5. Our latest SoP is [here](https://advox-dao.com/advoxgov/upcoming/active-issues/).
+5. Our latest Standard of Procedure is [here](https://advox-dao.com/advoxgov/upcoming/active-issues/).
 
-6. Clans reps are both selected & removed when needed with our consensus tools described above. 
+6. Clans reps are both selected & removed when needed with our consensus tools described in SoP. 
 
 
 
@@ -51,20 +51,20 @@ feature_row:
     title: "Female Turtle Clan"
     excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
     url: "https://discord.gg/hqf27A8udR"
-    btn_label: "🐢Dialogues"
+    btn_label: "🐢Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
     title: "Female Wolf Clan"
     excerpt: "Always moving, path makers & facilitators of the ecosystem."
     url: "https://discord.gg/HmSUtK9cwx"
-    btn_label: "🐺Dialogues"
+    btn_label: "🐺Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/IsaBear.png
     title: "Female Bear Clan"
     excerpt: "Bridges into the ecosystem, Folks who sustain the evolution of the ecosystem."
     url: "https://discord.gg/X4bhPzBQvh"
-    btn_label: "🐻Dialogues"
+    btn_label: "🐻Discord"
     btn_class: "btn--primary"
 
 section2:
@@ -78,20 +78,20 @@ feature_row2:
     title: "Male Turtle Clan"
     excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
     url: "https://discord.gg/g2n5D4Np67"
-    btn_label: "🐢Dialogues"
+    btn_label: "🐢Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
     title: "Male Wolf Clan"
     excerpt: "Always moving, path makers & facilitators of the ecosystem."
     url: "https://discord.gg/yyugHx4Sbg"
-    btn_label: "🐺Dialogues"
+    btn_label: "🐺Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/IsaBear.png
     title: "Male Bear Clan"
     excerpt: "Bridges into the ecosystem, Folks who sustain the evolution of the ecosystem."
     url: "https://discord.gg/9UXT8Ycq8T"
-    btn_label: "🐻Dialogues"
+    btn_label: "🐻Discord"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="body" type="justify" %}
