@@ -6,12 +6,9 @@ date: 2022-09-06
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Metaverse.png
-url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
-btn_label: "Register"
-btn_class: "btn--primary" 
+  overlay_image: /assets/images/Metaverse.png 
 excerpt: "AdvoxDAO Chapters Cohort #1"
-intro: 
+feature_row1: 
   - excerpt: '
 
 ### Cohort #1 Registration
@@ -25,8 +22,11 @@ As an Advocate member, you will have a community-curated introduction and walkth
 
 
 Member contributions are evaluated weekly by peers to determine distributions of rewards from our AdvoxDAO stacking pool.'
+url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
+btn_label: "Register"
+btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="justify" %}
+{% include feature_row id="feature_row1" type="justify" %}
 
 {% include feature_row %}
