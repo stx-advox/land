@@ -87,11 +87,11 @@ body3:
 
 ![micro-dao.png](https://github.com/stx-advox/land/blob/master/assets/images/micro-dao.png?raw=true)
 
-- on-chain transactions right inside discord for AdvoxDAO users. 
+- On-chain transactions right inside discord for AdvoxDAO members. 
 
 - Short readable and open source Clarity contracts enabling users to send stx & other crytpo to one another with their .btc names. 
 
-- Also users can create on-chain funding proposals, create microDAOs, execute funding on DAOs etc. 
+- Also users can create on-chain funding proposals, create microDAOs, execute funding to DAOs etc. 
 
 - A unique approach to AdvoxDAO commununity engagement, and quality support Stacks Grants programs!
 
