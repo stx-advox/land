@@ -14,7 +14,7 @@ feature_row2:
 
 
 
-As an Advocate member, you will have a community-curated introduction and walkthrough of our exciting Stacks ecosystem. We also have great ways to share your contributions with the broader community.
+As an Advocates member, you will have a community-curated introduction and walkthrough of our exciting Stacks ecosystem. We also have great ways to share your contributions with the broader community.
 
 
 
@@ -22,11 +22,7 @@ Member contributions are evaluated weekly by peers to determine distributions of
     url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
     btn_label: "Register"
     btn_class: "btn--primary" 
-     
 ---
-
 {% include feature_row id="feature_row2" type="justify" %}
-
-{% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
