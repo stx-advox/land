@@ -7,9 +7,21 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png
-excerpt: "Coming to a Local Area or Region Near You!"
+excerpt: "AdvoxDAO Chapter Cohort #1"
 intro: 
-  - excerpt: '**AdvoxDAO Stacks Chapters**'
+  - excerpt: '### Cohort #1 Registration
+
+We’re excited to begin assisting you on your journey through the Stacks ecosystem!
+
+We’ve created an intuitive onboarding process, that we hope can help you in learning more about Stacks and discover the many parts of the powerful ecosystem. As such, you’ve been selected to participate in the first AdvoxDAO cohort of Stacks Chapters. 
+
+As an Advocate member, you will have a community-curated introduction and walkthrough of our exciting Stacks ecosystem. We also have great ways to share your contributions with the broader community.
+
+Member contributions are evaluated weekly by peers to determine distributions of rewards from our AdvoxDAO stacking pool.'
+
+url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
+btn_label: "Register"
+btn_class: "btn--primary" 
 ---
 
 {% include feature_row id="intro" type="center" %}
