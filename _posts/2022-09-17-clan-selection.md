@@ -16,7 +16,7 @@ body:
 
 - This way our bottom up consensus tooling can be executed consistently for important ecosystem issues
 
-- Sign up if you've already been Nominated or Selected on an advoxDAO call"
+- Sign up if you've already been Nominated or Selected on a call"
     url: "https://blocksurvey.io/survey/t/bd2ce9eb-0327-44a3-857b-4761f9c1dca0/r/o"
     btn_label: "Rep Sign up"
     btn_class: "btn--primary"
