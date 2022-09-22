@@ -10,13 +10,7 @@ tags:
 body:
   - image_path: /assets/images/Advox_logo.png
     alt: "placeholder image 2"
-    excerpt: ' 
-
-    - We need advoxDAO Reps
-    
-    - This way our bottom up consensus tooling is executed consistently
-   
-    - Sign in if you've already been Nominated or Selected'
+    title: "We need advoxDAO Reps ASAP. This way our bottom up consensus tooling can be executed consistently for important ecosystem issues. Sign in if you've already been Nominated or Selected"
     url: "https://blocksurvey.io/survey/t/bd2ce9eb-0327-44a3-857b-4761f9c1dca0/r/o"
     btn_label: "Rep Sign In"
     btn_class: "btn--primary"
@@ -104,7 +98,7 @@ feature_row2:
     btn_label: "🐻Discord"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="body" type="center" %}
+{% include feature_row id="body" type="justify" %}
 
 {% include feature_row id="section" type="justify" %}
 
