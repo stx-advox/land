@@ -98,9 +98,9 @@ feature_row2:
     btn_label: "🐻Discord"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="body" type="justify" %}
+{% include feature_row id="body" type="center" %}
 
-{% include feature_row id="section" type="center" %}
+{% include feature_row id="section" type="justify" %}
 
 {% include feature_row %}
 
