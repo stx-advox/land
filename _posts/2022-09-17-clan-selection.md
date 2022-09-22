@@ -10,13 +10,13 @@ tags:
 body:
   - image_path: /assets/images/Advox_logo.png
     alt: "placeholder image 2"
-    title: " 
+    excerpt: ' 
 
     - We need advoxDAO Reps
     
     - This way our bottom up consensus tooling is executed consistently
    
-    - Sign in if you've already been Nominated or Selected"
+    - Sign in if you've already been Nominated or Selected'
     url: "https://blocksurvey.io/survey/t/bd2ce9eb-0327-44a3-857b-4761f9c1dca0/r/o"
     btn_label: "Rep Sign In"
     btn_class: "btn--primary"
