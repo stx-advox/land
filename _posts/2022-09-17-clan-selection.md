@@ -11,10 +11,14 @@ body:
   - image_path: /assets/images/Advox_logo.png
     alt: "placeholder image 2"
     title: "AdvoxDAO Clan Rep Sign In"
+    excerpt: 'We need advoxDAO Reps to ensure our bottom up consensus tooling is executed consistently. Sign in if you've already been Nominated or Selected' 
     url: "https://blocksurvey.io/survey/t/bd2ce9eb-0327-44a3-857b-4761f9c1dca0/r/o"
     btn_label: "Rep Sign In"
     btn_class: "btn--primary"
-    excerpt: ' 
+    
+
+section:
+   - excerpt: ' 
 
 - **Issue Name:**
 AdvoxDAO Clan Representatives Selection
@@ -43,9 +47,6 @@ We will give time in a community session in the week of 9/19-9/23 for selection 
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
 # **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
-
-section:
-   - excerpt: ' 
 
 # Female Clans'
 
