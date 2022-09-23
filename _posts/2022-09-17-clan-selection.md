@@ -41,7 +41,7 @@ We will give time in a community session in the week of 9/19-9/23 for selection 
 
 3. All Reps must be consistently available for monthly facilitation of active AdvoxDAO issues described below. Sub reps can be chosen by reps for support in facilitation & emergency absence. 
 
-4. The Clan Reps have different simple actions to be taken in AdvoxDAO discord channels, priority for reps is ensuring we complete our consensus decision making flows while accurately representing community vooice.
+4. The Clan Reps have different simple actions to be taken in AdvoxDAO discord channels, priority for reps is ensuring we complete our consensus decision making flows while accurately representing community voice.
 
 5. Our latest Standard of Procedure is [here](https://advox-dao.com/advoxgov/upcoming/active-issues/).
 
