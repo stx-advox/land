@@ -54,7 +54,9 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 **Repeat for WK2** 
 
-Use your own creativity Mid week, Briefly check-in DM or public to see if new member is ok & graduate your Lil Fren to a Big Fren by giving this sign up & guide.'
+- Use your own creativity Mid week, briefly check-in DMs or publicl to see if new member is ok.
+
+- Graduate your Lil Fren to a Big Fren by giving this sign up & guide.'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
     btn_label: "Register"
     btn_class: "btn--primary" 
