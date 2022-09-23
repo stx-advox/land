@@ -29,7 +29,7 @@ Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity)
 
 - Be there for the new member for any question (DM or public) about AdvoxDAO
 
-- Inform & encourage new members to come to the AdvoxDAO community calls
+- Encourage new members to come to the AdvoxDAO community calls
 
 - Summarize what AvoxDAO is about & how to get involved in this space 
  
