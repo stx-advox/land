@@ -30,6 +30,6 @@ feature_row3:
     btn_label: "Official Stacks Discord"
     btn_class: "btn--primary" 
 ---
-{% include feature_row id="feature_row2" type="justify" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row %}
