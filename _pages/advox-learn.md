@@ -52,9 +52,9 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 6. Remind all attendees to follow the Stacks Social Media pages
 
 
-**Repeat for WK2** 
+**Repeat for Week 2** 
 
-- Use your own creativity Mid week, briefly check-in with DMs or publicly to see if new member needs more guidance.
+- Use your own creativity mid-week, briefly check-in with DMs or publicly to see if new member needs more guidance.
 
 - Graduate your Lil Fren to a Big Fren by giving this sign up & guide.'
     url: "https://blocksurvey.io/survey/t/c203430d-4b40-407c-9c14-ecd3d80cace0/r/o"
