@@ -32,7 +32,7 @@ feature_row3:
     btn_label: "Official Stacks Discord"
     btn_class: "btn--primary" 
 feature_row4:
-  - title: "Basic Stacks 101 w/LEOS"
+  - title: "Learn Stacks to Earn w/LEOS"
     image_path: /assets/images/leos.png
     alt: "placeholder image 2"
     url: "https://app.leos.guru/app"
