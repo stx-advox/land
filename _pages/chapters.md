@@ -29,7 +29,18 @@ feature_row3:
     url: "https://discord.gg/5HzG7w2Egn"
     btn_label: "Official Stacks Discord"
     btn_class: "btn--primary" 
+feature_row4:
+  - title: "Basic Stacks 101 w/LEOS"
+    image_path: /assets/images/leos.png
+    alt: "placeholder image 2"
+    url: "https://app.leos.guru/app"
+    btn_label: "Learn"
+    btn_class: "btn--primary" 
 ---
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="center" %}
 
 {% include feature_row %}
