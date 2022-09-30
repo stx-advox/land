@@ -26,6 +26,8 @@ Member contributions are evaluated weekly by peers to determine distributions of
     btn_class: "btn--primary" 
 feature_row3:
   - title: "Join AdvoxDAO"
+    image_path: /assets/images/stxlogo_landing.png
+    alt: "placeholder image 2"
     url: "https://discord.gg/5HzG7w2Egn"
     btn_label: "Official Stacks Discord"
     btn_class: "btn--primary" 
