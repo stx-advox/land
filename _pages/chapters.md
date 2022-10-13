@@ -33,6 +33,7 @@ Member contributions are evaluated weekly by peers to determine distributions of
 - Engage with grant writing support through our Clarity DAO tooling that is built right into the Stacks discord.
 
 - Interact with open source Harvard & Oxford born governance tools right inside the Stacks discord. We have a robust bottom up governance models for those seriously thinking about long term sustainability in web3.'
+
     url: "https://blocksurvey.io/survey/t/917f4c70-b583-4cdf-917f-5519b0ccf988/r/o"
     btn_label: "Register"
     btn_class: "btn--primary" 
