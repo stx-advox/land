@@ -20,6 +20,7 @@ As an Advocates member, you will have a community-curated introduction and walkt
 
 Member contributions are evaluated weekly by peers to determine distributions of rewards from our AdvoxDAO stacking pool. 
 
+
 # What to expect in your AdvoxDAO cohort? 
 - Expect a community managed & curated space to return to long after after your local or online Stacks Chapters events have ended. Unlocked right inside the Official Satcks discord.
 
