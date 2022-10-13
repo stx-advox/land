@@ -9,13 +9,13 @@ tags:
 body: 
   - excerpt: ' 
 
-# Name Change
+# Gov Channel Name Change
 
 - **Issue Name:**
-#active-issues Name Change
+active-issues Name Change
 
 - **Issue Description:** 
-We've gotten some community feedback to have a clearer name for #active-issues channel. Something that reflects the refining of proposals that happens in the channel.
+We have recieved some community feedback to have a clearer name for #active-issues channel. Something that reflects the refining of proposals that happens in the channel.
 
 - **Artifacts & References:** 
 [Name Change Draft](https://paper.dropbox.com/doc/active-issues-Name-Change--Bq~DRPUML6o4qHBJrT69LbJfAg-vb7MBn72r2yWcHURySTdN)
