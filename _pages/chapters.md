@@ -26,7 +26,7 @@ Member contributions are evaluated weekly by peers to determine distributions of
 
 - Expect a community managed & curated space to return to long after after your local or online Stacks Chapters events have ended. Unlocked right inside the Official Satcks discord.
 
-- You’ll have an Advox Big Fren taking you deeper into our ecosystem with your interests in mind. Explore Stacks knowing your Big Fren is just a ping away.
+- You will have an Advox Big Fren taking you deeper into our ecosystem with your interests in mind. Explore Stacks knowing your Big Fren is just a ping away.
 
 - Our #Did-a-thing channel introduces you to the contributions of the broader ecosystem & gets you started in your own rhythms of contributions that push our ecosystem forward. This channel is complete with An algorithm P2P evaluations and weekly distributions of STX from our Community Stacking pool.
 
