@@ -48,12 +48,23 @@ feature_row4:
     alt: "placeholder image 2"
     url: "https://app.leos.guru/app"
     btn_label: "Learn"
-    btn_class: "btn--primary" 
+    btn_class: "btn--primary"
+feature_row5:
+  - title: "More AdvoxDAO Resources 🤍"
+    image_path: /assets/images/IsaBear.png
+    alt: "placeholder image 2"
+    url: "https://advox-dao.com/advoxres/"
+    btn_label: "Resources"
+    btn_class: "btn--primary"  
 ---
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
+{% include feature_row id="feature_row5" type="left" %}
+
 {% include feature_row id="feature_row4" type="center" %}
+
+{% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row %}
