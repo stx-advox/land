@@ -22,7 +22,7 @@ The Advocates program is made up of long time community members, passionate cont
 
 ###  🤝 Join
 1. Join the stacks discord server 
-2. in #start-here select the 🔍 emoji to get access to the Advocates DAO category
+2. In |✨ add-role select the 🔍 emoji to get access to the Advocates DAO category
 3. Have a friend advocate vouch for you, or post an intro about yourself directly in the #join-requests channel
 4. An Advocates welcomer will interview you and help you find your place in the program
 - Go to the #start-here channel under the Advox DAO category to get started and know more about the program
