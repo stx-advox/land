@@ -47,9 +47,9 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here)
 
-5. Inform about & walkthrough Grants & Residency options 
+5. Inform about & walkthrough appropriate paths to your Lil Fren [Grants](https://grants.stacks.org/), Residency options, [Clarity Education](https://clarity-lang.org/universe), or the dev channel ✨|add-role 
 
-6. Remind all attendees to follow the Stacks Social Media pages
+6. Remind all attendees to follow the Stacks [Social Media](https://twitter.com/Stacks) & [Stacks.co](https://www.stacks.co/) paths pages
 
 
 **Repeat for Week 2** 
