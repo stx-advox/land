@@ -49,7 +49,7 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 5. Inform about & walkthrough appropriate paths to your Lil Fren [Grants](https://grants.stacks.org/), Residency options, [Clarity Education](https://clarity-lang.org/universe) or how to unlock the #dev-channel add-role. 
 
-6. Remind all attendees to follow the Stacks [Social Media](https://twitter.com/Stacks) & [Stacks.co](https://www.stacks.co/) paths pages
+6. Remind your Lil Fren to follow the Stacks [Social Media](https://twitter.com/Stacks) & [Stacks.co](https://www.stacks.co/) paths.
 
 
 **Repeat for Week 2** 
