@@ -39,13 +39,13 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 **Items to introduce:** 
  
-1. Brief intro about each other, & AdvoxDAO program to-date & in the future 
+1. Brief intro about each other & AdvoxDAO program 
  
 2. Brief overview of how to use #didathing and #props & how Turtle, Wolf, & Bear works 
  
-3. Various community calls on different topics, encourage new member to hop on the calls, can subscribe to Events & Amplify for notification reminders. 
+3. Show our community calls on different topics, encourage new member to hop on the calls, create their own, they can subscribe to Events via #Amplify for notification reminders. 
 
-4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here)
+4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here) & use the [Explore](https://advox-dao.com/advoxlearn/) to guide through communit curated servers, content etc. 
 
 5. Inform about & walkthrough appropriate paths to your Lil Fren [Grants](https://grants.stacks.org/), Residency options, [Clarity Education](https://clarity-lang.org/universe) or how to unlock the #dev-channel add-role. 
 
