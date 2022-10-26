@@ -10,7 +10,7 @@ feature_row2:
     excerpt: 'Thank you kindly for your time with AdvoxDAO. You may have experienced our onboarding system as a new member. We want to ensure every new member has a warm welcoming experience into the community no matter how much we grow. We are asking AdvoxDAO members to return the warm favor. Register below to enter our round robin onboarding system. 
 
 - **Overview:** 
-Big & Lil Frens is a round robin system, to welcome new members more personally into the Stacks AdvoxDAO community. 
+Big & Lil Frens is a round robin system, to welcome new members more personally into the Stacks AdvoxDAO community. Once a Lil Fren members then return the support as Big Frens to new comers.
 
 
 - **Lil Fren Period:** 
