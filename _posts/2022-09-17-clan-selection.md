@@ -29,7 +29,7 @@ section:
 AdvoxDAO Clan Representatives Selection
 
 - **Issue Description:** 
-We will give time in a community session in the week of 9/19-9/23 for selection of six clan representatives. This selection will then be confirmed via our consensus flows in #active-issues and #formal-issues in following days. We need our reps first, this will ensure the issue consensus completes. 
+We gave time in a community session in the week of 9/19-9/23 for selection of six clan representatives. This selection will then be confirmed via our consensus flows in #active-issues and #formal-issues in following days. We need our reps first, this will ensure the issue consensus completes. 
 
 - **Artifacts & References:** 
 [AdvoxDAO Reps Issue working doc](https://paper.dropbox.com/doc/Reps-Selection-Issue--BpXcfhc11N~nIdzvIj7Z1pPBAQ-OaruTyFFf90TsPeZDvv13)
