@@ -33,6 +33,7 @@ We gave time in a community session in the week of 9/19-9/23 for selection of si
 - **Artifacts & References:** 
 [AdvoxDAO Reps Issue working doc](https://paper.dropbox.com/doc/Reps-Selection-Issue--BpXcfhc11N~nIdzvIj7Z1pPBAQ-OaruTyFFf90TsPeZDvv13)
 
+**Final Consensus:**
 
 **Female Turtle - @dez.btc  Male Turtle - @dan Ӿ Boom
 ~~Female Wolf - @Kaylee.btc - Xverse~~ Male Wolf - @merrick.btc
