@@ -2,7 +2,7 @@
 title: "Active Clan Reps Issue "
 categories:
   - advoxGov
-  - Active
+  - passed
   - Clans
 tags:
   - advoxgov
