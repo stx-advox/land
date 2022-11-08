@@ -34,6 +34,10 @@ We gave time in a community session in the week of 9/19-9/23 for selection of si
 [AdvoxDAO Reps Issue working doc](https://paper.dropbox.com/doc/Reps-Selection-Issue--BpXcfhc11N~nIdzvIj7Z1pPBAQ-OaruTyFFf90TsPeZDvv13)
 
 
+**Female Turtle - @dez.btc  Male Turtle - @dan Ӿ Boom
+~~Female Wolf - @Kaylee.btc - Xverse~~ Male Wolf - @merrick.btc
+Female Bear - @goodkitty.btc Male Bear - @Algorithm.btc - Xverse wallet**
+
 1. We have 3 clans but need to select 6 representatives to ensure our autonomous decision making goals are met. 3 Female Reps 3 Male Reps. Our attempt at ensuring no voices are drowned out over time. 
 
 2. All clan reps will be temporary but must have basic understanding of our Turtle, Wolf and Bear [clan model](https://discord.com/channels/621759717756370964/916371047102705704/1012059812130992128). 
