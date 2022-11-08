@@ -2,7 +2,7 @@
 title: "Active Gov Channel Name Change"
 categories:
   - advoxGov
-  - Active
+  - passed
 tags:
   - advoxgov
 
@@ -15,12 +15,12 @@ body:
 active-issues Name Change
 
 - **Issue Description:** 
-We have recieved some community feedback to have a clearer name for #active-issues channel. Something that reflects the refining of proposals that happens in the channel.
+We have recieved some community feedback to have a clearer name for #active-issues channel. Something that reflects the refining of proposals that happens in the channel. 
 
 - **Artifacts & References:** 
 [Name Change Draft](https://paper.dropbox.com/doc/active-issues-Name-Change--Bq~DRPUML6o4qHBJrT69LbJfAg-vb7MBn72r2yWcHURySTdN)
 
-
+**Final Consesnus:** Changed from #active-issues to **#review-proposal** 
 
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
