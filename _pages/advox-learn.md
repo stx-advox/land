@@ -65,7 +65,7 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 - Inform your Lil Fren about the chance to participate in our novel [voting for the 2.1 Upgrade](https://stx.eco/sip/twopointone) no matter how new they may be to the ecosystem. 
 
-- Please encourage your lil Fren to join the AdvoxDAO push for 2.1 voting participation on social media, retweeting @Herogamer in this effort & join AdvoxDAO spaces focused on 2.1 engagement. 
+- Please encourage your lil Fren to join the AdvoxDAO push for 2.1 voting participation on social media, retweeting [@Herogamer](https://twitter.com/herogamer21btc)in this effort & join AdvoxDAO spaces focused on 2.1 engagement. 
 
 
 
