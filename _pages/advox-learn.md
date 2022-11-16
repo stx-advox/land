@@ -38,8 +38,11 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 
 **Big Fren Guide:** 
- 
+
+
 **AdvoxDAO:**  
+
+
 - Brief intro about each other & AdvoxDAO program 
  
 - Brief overview of how to use #didathing and #props & how our clan design of Turtle, Wolf, & Bear works through out the DAO.  
@@ -48,13 +51,17 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 - Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here) & use the [Explore](https://advox-dao.com/explore/) to guide through community curated servers, content etc. Also remind them to follow important Stacks [Social Media](https://twitter.com/Stacks) that comes to mind. 
 
+
 **Stacks Devs:**  
+
 
 - Ensure your Dev lil Fren knows how to unlock the #dev-channel add-role. Be sure to complete a walkthrough appropriate paths to your Lil Fren [Grants & Residency options](https://grants.stacks.org/),[Clarity Education](https://clarity-lang.org/universe) or [Web3 Founders Lab](https://web3startuplab.io/)
 
 - Emphasize to your Lil Fren the Dev relevant entry points to Stacks OSS repos, Dev & SIP calls on [Stacks.co](https://www.stacks.co/).
 
+
 **A Stacks 2.1 Upgrade Focus:** 
+
 
 - Inform your Lil Fren about the chance to participate in our novel [voting for the 2.1 Upgrade](https://stx.eco/sip/twopointone) no matter how new they may be to the ecosystem. 
 
