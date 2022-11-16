@@ -57,7 +57,7 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 - Emphasize to your Lil Fren the Dev relevant entry points to Stacks OSS repos, Dev & SIP calls on [Stacks.co](https://www.stacks.co/).
 
-- Ensure your Dev lil Fren knows how to unlock the #dev-channel add-role. Be sure to complete a walkthrough appropriate paths to your Lil Fren [Grants & Residency options](https://grants.stacks.org/), [Clarity Education](https://clarity-lang.org/universe) or [Web3 Founders Lab](https://web3startuplab.io/)
+- Ensure your Dev lil Fren knows how to unlock the #dev-channel add-role. Be sure to complete a walkthrough appropriate paths to your Lil Fren [Grants & Residency options](https://grants.stacks.org/), [Clarity Education](https://clarity-lang.org/universe), [Web3 Founders Lab](https://web3startuplab.io/) or the [Hiro Dev Call](https://community.stacks.org/events#calendar)
 
 
 **A Stacks 2.1 Upgrade Focus:** 
