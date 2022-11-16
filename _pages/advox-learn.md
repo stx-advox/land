@@ -45,9 +45,9 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 
 - Brief intro about each other & AdvoxDAO program 
  
-- Brief overview of how to use #didathing and #props & how our clan design of Turtle, Wolf, & Bear works through out the DAO.  
+- Brief overview of how to use **#didathing** and **#props** & how our clan design of Turtle, Wolf, & Bear works through out the DAO.  
  
-- Show our community calls on different topics, encourage new member to hop on AdvoxDAO calls, create their own, they can subscribe to Events via #Amplify for notification reminders. 
+- Show our community calls on different topics, encourage new member to hop on AdvoxDAO calls, create their own, they can subscribe to Events via **#Anouncements** for notification reminders. 
 
 - Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here) & use the [Explore](https://advox-dao.com/explore/) to guide through community curated servers, content etc. Also remind them to follow important Stacks [Social Media](https://twitter.com/Stacks) that comes to mind. 
 
