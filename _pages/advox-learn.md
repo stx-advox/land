@@ -55,17 +55,17 @@ Arrange a 30 minutes call to introduce Advocates program at the beginning of the
 **Stacks Devs:**  
 
 
-- Ensure your Dev lil Fren knows how to unlock the #dev-channel add-role. Be sure to complete a walkthrough appropriate paths to your Lil Fren [Grants & Residency options](https://grants.stacks.org/), [Clarity Education](https://clarity-lang.org/universe) or [Web3 Founders Lab](https://web3startuplab.io/)
-
 - Emphasize to your Lil Fren the Dev relevant entry points to Stacks OSS repos, Dev & SIP calls on [Stacks.co](https://www.stacks.co/).
+
+- Ensure your Dev lil Fren knows how to unlock the #dev-channel add-role. Be sure to complete a walkthrough appropriate paths to your Lil Fren [Grants & Residency options](https://grants.stacks.org/), [Clarity Education](https://clarity-lang.org/universe) or [Web3 Founders Lab](https://web3startuplab.io/)
 
 
 **A Stacks 2.1 Upgrade Focus:** 
 
 
-- Inform your Lil Fren about the chance to participate in our novel [voting for the 2.1 Upgrade](https://stx.eco/sip/twopointone) no matter how new they may be to the ecosystem. 
+- Inform your Lil Fren about the chance to participate in our novel [voting for the 2.1 Upgrade](https://stacks.org/21-voting-guide) no matter how new they may be to the ecosystem. 
 
-- Please encourage your lil Fren to join the AdvoxDAO push for 2.1 voting participation on social media, retweeting [@Herogamer](https://twitter.com/herogamer21btc)in this effort & join AdvoxDAO spaces focused on 2.1 engagement. 
+- Please encourage your lil Fren to join the AdvoxDAO push for 2.1 voting participation on social media, retweeting [@Herogamer](https://twitter.com/herogamer21btc/status/1565956301678448642?s=61&t=qPBB944aJmqSjZtCIfvBmw )in this effort & join AdvoxDAO spaces focused on 2.1 engagement. 
 
 
 
