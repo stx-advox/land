@@ -37,19 +37,29 @@ Hours (Week 1: 2 hours + Week 2: 1 hour + your own creativity)
 Arrange a 30 minutes call to introduce Advocates program at the beginning of the week (timing up to your availabilities) 
 
 
-**Items to introduce:** 
+**Big Fren Guide:** 
  
-1. Brief intro about each other & AdvoxDAO program 
+**AdvoxDAO:**  
+- Brief intro about each other & AdvoxDAO program 
  
-2. Brief overview of how to use #didathing and #props & how Turtle, Wolf, & Bear works 
+- Brief overview of how to use #didathing and #props & how our clan design of Turtle, Wolf, & Bear works through out the DAO.  
  
-3. Show our community calls on different topics, encourage new member to hop on the calls, create their own, they can subscribe to Events via #Amplify for notification reminders. 
+- Show our community calls on different topics, encourage new member to hop on AdvoxDAO calls, create their own, they can subscribe to Events via #Amplify for notification reminders. 
 
-4. Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here) & use the [Explore](https://advox-dao.com/advoxlearn/) to guide through community curated servers, content etc. 
+- Remind them to complete tasks from the #join-request (i.e. BNS, Didathing and Start-here) & use the [Explore](https://advox-dao.com/explore/) to guide through community curated servers, content etc. Also remind them to follow important Stacks [Social Media](https://twitter.com/Stacks) that comes to mind. 
 
-5. Inform about & walkthrough appropriate paths to your Lil Fren [Grants](https://grants.stacks.org/), Residency options, [Clarity Education](https://clarity-lang.org/universe) or how to unlock the #dev-channel add-role. 
+**Stacks Devs:**  
 
-6. Remind your Lil Fren to follow the Stacks [Social Media](https://twitter.com/Stacks) & [Stacks.co](https://www.stacks.co/) paths.
+- Ensure your Dev lil Fren knows how to unlock the #dev-channel add-role. Be sure to complete a walkthrough appropriate paths to your Lil Fren [Grants & Residency options](https://grants.stacks.org/),[Clarity Education](https://clarity-lang.org/universe) or [Web3 Founders Lab](https://web3startuplab.io/)
+
+- Emphasize to your Lil Fren the Dev relevant entry points to Stacks OSS repos, Dev & SIP calls on [Stacks.co](https://www.stacks.co/).
+
+**A Stacks 2.1 Upgrade Focus:** 
+
+- Inform your Lil Fren about the chance to participate in our novel [voting for the 2.1 Upgrade](https://stx.eco/sip/twopointone) no matter how new they may be to the ecosystem. 
+
+- Please encourage your lil Fren to join the AdvoxDAO push for 2.1 voting participation on social media, retweeting @Herogamer in this effort & join AdvoxDAO spaces focused on 2.1 engagement. 
+
 
 
 **Repeat for Week 2** 
