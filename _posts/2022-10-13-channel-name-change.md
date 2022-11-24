@@ -29,7 +29,6 @@ excerpt: "
     btn_label: "Gov Call"
     btn_class: "btn--primary"
 
-
 body3: 
 excerpt: "
 - Have Yet to Join an Advox Clan?"
@@ -104,6 +103,8 @@ feature_row2:
 {% include feature_row id="body" type="justify" %}
 
 {% include feature_row id="body2" type="justify" %}
+
+{% include feature_row id="body3" type="justify" %}
 
 {% include feature_row id="section" type="center" %}
 
