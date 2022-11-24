@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/blueheader.gif
 excerpt: "
-P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & Innovation"
+P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & Innovation."
 intro: 
   - excerpt: '
 
