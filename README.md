@@ -6,7 +6,7 @@ date: 2022-09-06
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Metaverse.png
+  overlay_image: /assets/images/blueheader.gif
 excerpt: "
 - Motivated Community Contributions
  
