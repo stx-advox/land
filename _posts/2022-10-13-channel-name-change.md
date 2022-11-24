@@ -19,7 +19,7 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - **Artifacts & References:** 
 [Name Change Draft](https://paper.dropbox.com/doc/active-issues-Name-Change--Bq~DRPUML6o4qHBJrT69LbJfAg-vb7MBn72r2yWcHURySTdN)
 
-- **Final Consesnus:** Changed from active-issues to **review-proposal** 
+- **Final Consesnus:** Changed from active-issues to **review-proposal**' 
 
 
 body2: 
@@ -35,6 +35,9 @@ excerpt: "
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
     btn_label: "Stacks Discord"
     btn_class: "btn--primary"
+    
+    body4: 
+  - excerpt: '
 
 # **Quick Clan Design FAQ**
 
@@ -105,6 +108,8 @@ feature_row2:
 {% include feature_row id="body2" type="justify" %}
 
 {% include feature_row id="body3" type="justify" %}
+
+{% include feature_row id="body4" type="justify" %}
 
 {% include feature_row id="section" type="center" %}
 
