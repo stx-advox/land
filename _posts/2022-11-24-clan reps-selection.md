@@ -36,8 +36,8 @@ We gave time in a community session in the week of 9/19-9/23 for selection of si
 
 - **Current Reps:**
 
-**Female Turtle - @dez.btc | Male Turtle - @hz.btc(NEW) |
-Female Wolf - @aakanksha.mahajan(NEW) | Male Wolf - @merrick.btc |
+Female Turtle - @dez.btc | **Male Turtle - @hz.btc(NEW)** |
+**Female Wolf - @aakanksha.mahajan(NEW)** | Male Wolf - @merrick.btc |
 Female Bear - @goodkitty.btc | Male Bear - @Algorithm.btc - Xverse wallet**
 
 1. We have 3 clans but need to select 6 representatives to ensure our autonomous decision making goals are met. 3 Female Reps 3 Male Reps. Our attempt at ensuring no voices are drowned out over time. 
