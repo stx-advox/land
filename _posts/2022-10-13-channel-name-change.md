@@ -32,7 +32,7 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 **How Does it Work?**
 
-- We use governance tools from Harvard/Oxford born Metagov research group, see advoxDAO section in the main Stacks Discord.
+- We use governance tools from Harvard/Oxford born [Metagov](https://metagov.org/) research group, we integrate this right right into the official Stacks discord as shown [here](https://advox-dao.com/advoxres/#advox-clan-governance).
 
 
 **What research is behind this?**
