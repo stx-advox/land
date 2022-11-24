@@ -51,7 +51,7 @@ body2:
 body3:
   - title: "Have Yet to Join an Advox Clan?"
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
-    btn_label: "Stacks Discord"
+    btn_label: "Join Here"
     btn_class: "btn--primary" 
 section:
    - excerpt: ' 
