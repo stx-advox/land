@@ -35,13 +35,13 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - We use governance tools from Harvard/Oxford born Metagov research group, see advoxDAO section in the main Stacks Discord.
 
 
-**Was this Designed with Research?**
- 
-- We work alongside Native a Two Row Wampum Council for guidance in matrilineal organization. 
+**What research is behind this?**
 
-- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.
+- [Rensselaer Polytechnic Institute](https://generativejustice.org/) & [National Center of Scientific Research in Paris](https://cyber.harvard.edu/people/pdefilippi) Point to Explicit Autonomy in decision making for Women, regenerative ecosystems as critical in both the Native context & the potential of long term sustainability in OSS of Web3'
 
-- Explicit Autonomy in decision making for Women, regenerative ecosystems are critical in this Native context and the potential of long term Web3 sustainability'
+- We work alongside a Native Two Row Wampum Council for guidance in bottom up organization. 
+
+- These structures gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.
 body2: 
   - title: "Register For Gov Call Invite"
     url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
