@@ -32,18 +32,16 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.
 
 body2: 
-excerpt: "
-- Register For Gov Call Invite"
+  - title: "Register For Gov Call Invite"
     url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
     btn_label: "Gov Call"
     btn_class: "btn--primary"
-
-body3: 
-excerpt: "
-- Have Yet to Join an Advox Clan?"
+ 
+body3:
+  - title: "Have Yet to Join an Advox Clan?"
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
     btn_label: "Stacks Discord"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary" 
 
 
 section:
