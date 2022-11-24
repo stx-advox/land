@@ -25,7 +25,7 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 # Quick Clan Design FAQ
 
-- Autonomy of female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design Below. 
+- Autonomy of **female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design below.**
 
 - We use governance tools from Harvard/Oxford born Metagov research group.
  
@@ -45,7 +45,6 @@ body3:
     btn_class: "btn--primary" 
 section:
    - excerpt: ' 
-
 # Female Clans'
 
 feature_row:
