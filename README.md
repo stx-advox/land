@@ -4,9 +4,9 @@ layout: splash
 permalink: /
 date: 2022-09-06
 header:
-  overlay_color: "#5e616c"
-  overlay_filter: "0.5"
-  overlay_video: /assets/images/header.mp4
+  video:
+    id: -Ijd8H9H1pUo
+    provider: youtube
 excerpt: "
 P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & Innovation."
 intro: 
