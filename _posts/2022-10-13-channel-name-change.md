@@ -80,7 +80,7 @@ section3:
 
 **Why the Clan Distinctions?**
 
-- Autonomy of all generators of value are structurally accounted for in the Clan Design below, even ensuring voices of **Women & Ecosystems are not drowned out in long term.**
+- Autonomy of all generators of value are structurally accounted for in the Clan Design, even ensuring voices of **Women & Ecosystems are not drowned out in long term.**
 
 
 **How Does it Work?**
