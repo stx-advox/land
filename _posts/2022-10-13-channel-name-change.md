@@ -21,6 +21,8 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 - **Final Consesnus:** Changed from active-issues to **review-proposal**
 
+
+
 # Quick Clan Design FAQ
 
 - Autonomy of female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design Below. 
@@ -30,8 +32,6 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - We also work alongside Native Two Row Wampum councils for guidance in matrilineal organization. 
 
 - These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
-
-
 body2: 
   - title: "Register For Gov Call Invite"
     url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
@@ -43,8 +43,6 @@ body3:
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
     btn_label: "Stacks Discord"
     btn_class: "btn--primary" 
-
-
 section:
    - excerpt: ' 
 
