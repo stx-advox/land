@@ -21,9 +21,21 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 - **Final Consesnus:** Changed from active-issues to **review-proposal** 
 
-# Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
-# **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**
+body2: 
+excerpt: "
+- Register For Gov Call Invite"
+    url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
+    btn_label: "Gov Call"
+    btn_class: "btn--primary"
+
+
+body3: 
+excerpt: "
+- Have Yet to Join an Advox Clan?"
+    url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
+    btn_label: "Stacks Discord"
+    btn_class: "btn--primary"
 
 # **Quick Clan Design FAQ**
 
@@ -90,6 +102,8 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 {% include feature_row id="body" type="justify" %}
+
+{% include feature_row id="body2" type="justify" %}
 
 {% include feature_row id="section" type="center" %}
 
