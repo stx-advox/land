@@ -25,7 +25,7 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 # Quick Clan Design FAQ
 
-**Why the Clan distinctions?**
+**Why the Clan Distinctions?**
 
 - Autonomy of all generators of value are structurally accounted for in the Clan Design below, even ensuring voices of **Women & Ecosystems are not drowned out in long term.**
 
@@ -35,7 +35,7 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - We use governance tools from Harvard/Oxford born [Metagov](https://metagov.org/) research group, we integrate this right right into the official Stacks discord as shown [here](https://advox-dao.com/advoxres/#advox-clan-governance).
 
 
-**What research is behind this?**
+**What research is behind this Design?**
 
 - [Rensselaer Polytechnic Institute](https://generativejustice.org/) & [National Center of Scientific Research in Paris](https://cyber.harvard.edu/people/pdefilippi)
 Both pointed us to Explicit Autonomy in decision making for Women, regenerative ecosystems as critical in both contexts of Original People Nations & the potential of long term sustainability in OSS of Web3.
