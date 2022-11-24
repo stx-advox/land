@@ -19,8 +19,17 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - **Artifacts & References:** 
 [Name Change Draft](https://paper.dropbox.com/doc/active-issues-Name-Change--Bq~DRPUML6o4qHBJrT69LbJfAg-vb7MBn72r2yWcHURySTdN)
 
-- **Final Consesnus:** Changed from active-issues to **review-proposal**' 
+- **Final Consesnus:** Changed from active-issues to **review-proposal**
 
+# **Quick Clan Design FAQ**
+
+- Autonomy of female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design Below. 
+
+- We use governance tools from Harvard/Oxford born Metagov research group.
+ 
+- We also work alongside Native Two Row Wampum councils for guidance in matrilineal organization. 
+
+- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.
 
 body2: 
 excerpt: "
@@ -35,19 +44,7 @@ excerpt: "
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
     btn_label: "Stacks Discord"
     btn_class: "btn--primary"
-    
-body4: 
-  - excerpt: '
 
-# **Quick Clan Design FAQ**
-
-- Autonomy of female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design Below. 
-
-- We use governance tools from Harvard/Oxford born Metagov research group.
- 
-- We also work alongside Native Two Row Wampum councils for guidance in matrilineal organization. 
-
-- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
 
 section:
    - excerpt: ' 
