@@ -121,10 +121,10 @@ body3:
 
 {% include feature_row id="section2" type="center" %}
 
+{% include feature_row id="feature_row2" %}
+
 {% include feature_row id="section3" type="center" %}
 
 {% include feature_row id="body2" type="justify" %}
 
 {% include feature_row id="body3" type="justify" %}
-
-{% include feature_row id="feature_row2" %}
