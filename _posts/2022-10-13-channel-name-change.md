@@ -32,20 +32,20 @@ feature_row:
     title: "Female Turtle Clan"
     excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
     url: "https://discord.gg/hqf27A8udR"
-    btn_label: "🐢Dialogues"
+    btn_label: "🐢Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
     title: "Female Wolf Clan"
     excerpt: "Always moving, path makers & facilitators of the ecosystem."
     url: "https://discord.gg/HmSUtK9cwx"
-    btn_label: "🐺Dialogues"
+    btn_label: "🐺Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/IsaBear.png
     title: "Female Bear Clan"
     excerpt: "Bridges into the ecosystem, Folks who sustain the evolution of the ecosystem."
     url: "https://discord.gg/X4bhPzBQvh"
-    btn_label: "🐻Dialogues"
+    btn_label: "🐻Discord"
     btn_class: "btn--primary"
 section2:
    - excerpt: ' 
@@ -58,20 +58,20 @@ feature_row2:
     title: "Male Turtle Clan"
     excerpt: "Keen observers of the Stacks ecosystem, validators against core values."
     url: "https://discord.gg/g2n5D4Np67"
-    btn_label: "🐢Dialogues"
+    btn_label: "🐢Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/LushanWolf.png
     alt: "placeholder image 2"
     title: "Male Wolf Clan"
     excerpt: "Always moving, path makers & facilitators of the ecosystem."
     url: "https://discord.gg/yyugHx4Sbg"
-    btn_label: "🐺Dialogues"
+    btn_label: "🐺Discord"
     btn_class: "btn--primary"
   - image_path: /assets/images/IsaBear.png
     title: "Male Bear Clan"
     excerpt: "Bridges into the ecosystem, Folks who sustain the evolution of the ecosystem."
     url: "https://discord.gg/9UXT8Ycq8T"
-    btn_label: "🐻Dialogues"
+    btn_label: "🐻Discord"
     btn_class: "btn--primary"
 section3:
    - excerpt: '
@@ -113,8 +113,6 @@ body3:
  
 ---
 {% include feature_row id="body" type="justify" %}
-
-{% include feature_row id="body4" type="justify" %}
 
 {% include feature_row id="section" type="center" %}
 
