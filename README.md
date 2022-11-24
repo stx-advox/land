@@ -12,7 +12,7 @@ P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & I
 intro: 
   - excerpt: '
 
-# Welcome to Stacks AdvoxDAO
+# Welcome to Stacks AdvoӾDAO
 
 - The mission of the Stacks Advocates Program (advoӾ) is to distribute power 
 
