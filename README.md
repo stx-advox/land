@@ -1,5 +1,5 @@
 ---
-title: "advo♓︎DAO"
+title: "advoxDAO"
 layout: splash
 permalink: /
 date: 2022-09-06
