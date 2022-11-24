@@ -1,7 +1,8 @@
 ---
-title: "Active Clan Reps Issue "
+title: "Active Clan Reps Proposal "
 categories:
   - advoxGov
+  - Active
   - Clans
 tags:
   - advoxgov
