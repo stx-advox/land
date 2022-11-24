@@ -37,9 +37,10 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 **What research is behind this?**
 
-- [Rensselaer Polytechnic Institute](https://generativejustice.org/) & [National Center of Scientific Research in Paris](https://cyber.harvard.edu/people/pdefilippi) Point to Explicit Autonomy in decision making for Women, regenerative ecosystems as critical in both the Native context & the potential of long term sustainability in OSS of Web3.
+- [Rensselaer Polytechnic Institute](https://generativejustice.org/) & [National Center of Scientific Research in Paris](https://cyber.harvard.edu/people/pdefilippi)
+Both pointed us to Explicit Autonomy in decision making for Women, regenerative ecosystems as critical in both contexts of Original People Nations & the potential of long term sustainability in OSS of Web3.
 
-- We work alongside a Native Two Row Wampum Council for guidance in bottom up organization. 
+- We work alongside a Traditional(Non-Tribal Or Band) Native American Two Row Wampum Council for guidance in bottom up organization. 
 
 - These structures gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
 body2: 
