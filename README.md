@@ -52,7 +52,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/active-issues.gif
     alt: "placeholder image 2"
-    title: "#active-issues"
+    title: "#review-proposal"
     excerpt: 'Our #active-issues channel, for community governance proposals.'
     url: "/advoxgov"
     btn_label: "advoxGOV"
