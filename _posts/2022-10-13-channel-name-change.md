@@ -25,13 +25,21 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 # Quick Clan Design FAQ
 
-- Autonomy of **female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design below.**
+**Why the Clan distinctions?**
 
-- We use governance tools from Harvard/Oxford born Metagov research group.
+- Autonomy of all generators of value are structurally accounted for in the Clan Design below, even ensuring voices of **Women & Ecosystems are not drowned out in long term.**
+
+**How Does it Work?**
+
+- We use governance tools from Harvard/Oxford born Metagov research group, see advoxDAO section in the main Stacks Discord.
+
+**Was this Designed with Research?**
  
-- We also work alongside Native Two Row Wampum councils for guidance in matrilineal organization. 
+- We work alongside Native a Two Row Wampum Council for guidance in matrilineal organization. 
 
-- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
+- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.
+
+- Explicit Autonomy in decision making for Women, regenerative ecosystems are critical in this Native context and the potential of long term Web3 sustainability'
 body2: 
   - title: "Register For Gov Call Invite"
     url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
