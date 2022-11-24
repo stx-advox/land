@@ -5,7 +5,7 @@ permalink: /
 date: 2022-09-06
 header:
   video:
-    id: -Ijd8H9H1pUo
+    id: -RqAPdFG5NIAIkgEA
     provider: youtube
 excerpt: "
 P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & Innovation."
