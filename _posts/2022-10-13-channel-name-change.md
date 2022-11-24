@@ -21,7 +21,7 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 - **Final Consesnus:** Changed from active-issues to **review-proposal**
 
-# **Quick Clan Design FAQ**
+# Quick Clan Design FAQ
 
 - Autonomy of female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design Below. 
 
@@ -29,7 +29,8 @@ We have recieved some community feedback to have a clearer name for #active-issu
  
 - We also work alongside Native Two Row Wampum councils for guidance in matrilineal organization. 
 
-- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.
+- These structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
+
 
 body2: 
   - title: "Register For Gov Call Invite"
