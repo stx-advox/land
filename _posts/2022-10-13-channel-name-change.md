@@ -36,7 +36,7 @@ excerpt: "
     btn_label: "Stacks Discord"
     btn_class: "btn--primary"
     
-    body4: 
+body4: 
   - excerpt: '
 
 # **Quick Clan Design FAQ**
