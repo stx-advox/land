@@ -23,7 +23,10 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 # Register for Gov Call Invite [Here](https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o)  
 
-# **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**'
+# **Have Yet to Join an Advox Clan? [Click Here](https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562)**
+
+# **Quick Clan FAQ**
+Autonomy of female voices, voices of ecosystems and all generators of value is structurally accounted for via the Clan Design Below. We use governance tools from Harvard/Oxford born Metagov research group. We also work alongside Native Two Row Wampum councils for guidance in matrilineal organization; the structures that gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
 
 section:
    - excerpt: ' 
