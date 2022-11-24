@@ -40,17 +40,20 @@ We have recieved some community feedback to have a clearer name for #active-issu
 - [Rensselaer Polytechnic Institute](https://generativejustice.org/) & [National Center of Scientific Research in Paris](https://cyber.harvard.edu/people/pdefilippi)
 Both pointed us to Explicit Autonomy in decision making for Women, regenerative ecosystems as critical in both contexts of Original People Nations & the potential of long term sustainability in OSS of Web3.
 
-- We work alongside a Traditional(Non-Tribal Or Band) Native American Two Row Wampum Council for guidance in bottom up organization. 
+- We work alongside a Traditional (NonTribal & NonBand) Native American Two Row Wampum Council for guidance in bottom up organization. 
 
 - These structures gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
 body2: 
   - title: "Register For Gov Call Invite"
+    image_path: /assets/images/govcall.png
+    alt: "placeholder image 2"
     url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
-    btn_label: "Gov Call"
+    btn_label: "Register"
     btn_class: "btn--primary"
- 
 body3:
   - title: "Have Yet to Join an Advox Clan?"
+    image_path: /assets/images/clandetails.png
+    alt: "placeholder image 2"
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
     btn_label: "Join Here"
     btn_class: "btn--primary" 
@@ -80,7 +83,6 @@ feature_row:
     url: "https://discord.gg/X4bhPzBQvh"
     btn_label: "🐻Dialogues"
     btn_class: "btn--primary"
-
 section2:
    - excerpt: ' 
 
