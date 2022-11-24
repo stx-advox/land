@@ -1,5 +1,5 @@
 ---
-title: "advoӾDAO"
+title: "Stacks advoӾDAO"
 layout: splash
 permalink: /
 date: 2022-09-06
@@ -12,23 +12,23 @@ P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & I
 intro: 
   - excerpt: '
 
-# Welcome to AdvoxDAO
+# Welcome to Stacks AdvoxDAO
 
-- The mission of the Advocates Program (Advox) is to distribute power 
+- The mission of the Stacks Advocates Program (advoӾ) is to distribute power 
 
 - Ensuring voice for generators of value 
 
-- Advox offers a welcoming space for anyone to get involved in the Stacks community
+- AdvoӾ offers a welcoming space for anyone to get involved in the Stacks community
  
 - Supported by Stacks’ unique stacking mechanism 
 
-- Members of Advox share in the value that we collectively create'
+- Members of AdvoӾ share in the value that we collectively create'
 
 feature_row2:
   - image_path: /assets/images/welcome.gif
     alt: "placeholder image 2"
     title: "#join-requests"
-    excerpt: 'An AdvoxDAO interview, we will help find your place in Stacks 💯'
+    excerpt: 'An advoӾDAO interview, we will help find your place in Stacks 💯'
     url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
     btn_label: "Apply Now"
     btn_class: "btn--primary"
@@ -41,7 +41,7 @@ feature_row3:
 
 - Our official community space for p2p evaluations of your efforts can in the ecosystem. 
 
-- Get weekly AdvoxDAO STX pool reward distributions'
+- Get weekly AdvoӾDAO STX pool reward distributions'
     url: "http://blocksurvey.io/survey/t/84fe47b0-46b5-4222-9f01-445020467e5d/r/o"
     btn_label: "Apply Now"
     btn_class: "btn--primary"
@@ -61,19 +61,19 @@ body:
 
 1. Join the official [Stacks Discord](https://discord.gg/gKF48SVChS) server 
 
-2. In #start-here select the 🔍 emoji to get access to the Advocates DAO category
+2. In #start-here select the 🔍 emoji to get access to the AdvoӾDAO category
 
 3. Have a friend advocate vouch for you, or post an intro about yourself directly in the #join-requests channel
 
 4. An Advocates welcomer will interview you and help you find your place in the program
 
-- The didathing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
+- The #didathing channel will show you tons of diverse contributions as examples of the things you can contribute to the ecosystem
 
-- The props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
+- The #props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
 
-- Active Issues is where you’ll find different community governance proposals to learn why the advocates program is the way it is now. 
+- #review-proposal is where you’ll find different community governance proposals to learn why the advocates program is the way it is now. 
 
-- The resources channel will help you find more information about the advocates program'
+- This resources [page](https://advox-dao.com/advoxres/) will help you find more information about the advocates program'
 ---
 {% include feature_row id="intro" type="justify" %}
 
