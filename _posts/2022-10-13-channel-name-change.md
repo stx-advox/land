@@ -29,9 +29,11 @@ We have recieved some community feedback to have a clearer name for #active-issu
 
 - Autonomy of all generators of value are structurally accounted for in the Clan Design below, even ensuring voices of **Women & Ecosystems are not drowned out in long term.**
 
+
 **How Does it Work?**
 
 - We use governance tools from Harvard/Oxford born Metagov research group, see advoxDAO section in the main Stacks Discord.
+
 
 **Was this Designed with Research?**
  
