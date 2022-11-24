@@ -96,20 +96,21 @@ section3:
 
 - These structures gave rise to the modern concepts of representative democracy, decentralized autonomous confederation etc.'
 body2: 
-  - title: "Register For Gov Call Invite"
-    image_path: /assets/images/govcall.png
-    alt: "placeholder image 2"
-    url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
-    btn_label: "Register"
-    btn_class: "btn--primary"
-body3:
-  - title: "Have Yet to Join an Advox Clan?"
+  - title: "Join A Clan to Participate Above"
     image_path: /assets/images/clandetails.png
     alt: "placeholder image 2"
     url: "https://discord.com/channels/621759717756370964/916371047102705704/1011947207697641562"
     btn_label: "Join Here"
     btn_class: "btn--primary" 
 
+body3:
+  - title: "Register For Gov Call Invite"
+    image_path: /assets/images/govcall.png
+    alt: "placeholder image 2"
+    url: "https://blocksurvey.io/survey/t/ecb59a8e-d577-42db-94ed-5354d64a0359/r/o"
+    btn_label: "Register"
+    btn_class: "btn--primary"
+ 
 ---
 {% include feature_row id="body" type="justify" %}
 
@@ -123,7 +124,7 @@ body3:
 
 {% include feature_row id="feature_row2" %}
 
-{% include feature_row id="section3" type="center" %}
+{% include feature_row id="section3" type="justify" %}
 
 {% include feature_row id="body2" type="justify" %}
 
