@@ -75,8 +75,6 @@ body:
 
 - This resources [page](https://advox-dao.com/advoxres/) will help you find more information about the advocates program'
 ---
-{% include video id="RqAPdFG5NIAIkgEA" provider="youtube" %}
-
 {% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
