@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2022-09-06
 header:
-  overlay_image: /assets/images/beaheader.png
+  overlay_image: /assets/images/beaheader2.png
 excerpt: "
 P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & Innovation."
 intro: 
