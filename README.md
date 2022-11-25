@@ -51,7 +51,7 @@ feature_row4:
     title: "#review-proposal"
     excerpt: 'Our #active-issues channel, for community governance proposals.'
     url: "/advoxgov"
-    btn_label: "advoxGOV"
+    btn_label: "advoӾGOV"
     btn_class: "btn--primary"
 
 body:
