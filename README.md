@@ -4,8 +4,6 @@ layout: splash
 permalink: /
 date: 2022-09-06
 header:
-  overlay_color: "#5e616c"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/isasaan.png
 excerpt: "
 P2P Contribution Evaluation. Community Led Funding. Longterm Community Power & Innovation."
