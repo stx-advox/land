@@ -22,7 +22,7 @@ The Advocates program is made up of long time community members, passionate cont
 
 ### The Research Behind The Art
 
-You may notice the beautiful art of this site, It can be found on the [DaDA Art Platform](https://dada.nyc/). They are pioneers of fine art NFTs in 2017, but also pioneers of bringing commons based system design to web3. Harvard's Primavvera De Filippi often joins their [Invisible Economy](https://powerdada.medium.com/the-invisible-economy-db46897d4f07#:~:text=The%20Invisible%20Economy%20organizes%20economic,contributions%20with%20a%20basic%20income.) working group, an amazing group of innovators, *intrinsic* incentive design is an important part of the heart of advoӾDAO. 
+You may notice the beautiful art of this site, It can be found on the [DaDA Art Platform](https://dada.nyc/). They are pioneers of fine art NFTs in 2017, but also pioneers of bringing commons based system design to web3. Harvard's Primavera De Filippi often joins their [Invisible Economy](https://powerdada.medium.com/the-invisible-economy-db46897d4f07#:~:text=The%20Invisible%20Economy%20organizes%20economic,contributions%20with%20a%20basic%20income.) working group, an amazing group of innovators, *intrinsic* incentive design is an important part of the heart of advoӾDAO. 
 
 ### advoӾDAO Research
 
