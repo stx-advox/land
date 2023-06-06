@@ -65,13 +65,13 @@ body3:
 
 ![](https://paper-attachments.dropbox.com/s_D9C6AB1F126058A4F860A7F8545E04CE86C4CE3483D1C476A433A596927478BD_1648493089424_Hz+Gov.png)
 
-- As a user I should be able to start an issue by posting in [#active-issues](https://paper.dropbox.com/?q=%23active-issues)
+- As a user I should be able to start an issue by posting in [#active-issues](https://advox-dao.com/advoxgov/#active)
 
 - As a user I should be able to see a help text telling me what the process is gonna be like
 
 - As a user I should be able to discuss and make edits to the original issue that being the message
 
-- As a user I should be able to see the last revision of the issue in the [#formal-proposals](https://paper.dropbox.com/?q=%23formal-proposals) channel after the period of discussion expires
+- As a user I should be able to see the last revision of the issue in the [#formal-proposals](https://advox-dao.com/advoxgov/#advoxgov) channel after the period of discussion expires
 
 - As a user I should be able to dissent to the formal proposal during the voting period
 
@@ -83,7 +83,7 @@ body3:
 
 - As a user I should be able to see if the proposal has passed or failed
 
-- ![pkadvox.png](https://github.com/stx-advox/land/blob/master/assets/images/pkadvox.png?raw=true)
+![pkadvox.png](https://github.com/stx-advox/land/blob/master/assets/images/pkadvox.png?raw=true)
 
 ### CommunityDAO Features 
 
@@ -97,7 +97,7 @@ body3:
 
 - A unique approach to AdvoxDAO commununity engagement, and quality support Stacks Grants programs!
 
-- ![advoxjrnys.png](https://github.com/stx-advox/land/blob/master/assets/images/advoxjrnys.png?raw=true)
+![advoxjrnys.png](https://github.com/stx-advox/land/blob/master/assets/images/advoxjrnys.png?raw=true)
 
 ### System Design Ethos
 
