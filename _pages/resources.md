@@ -83,6 +83,8 @@ body3:
 
 - As a user I should be able to see if the proposal has passed or failed
 
+- ![pkadvox.png](https://github.com/stx-advox/land/blob/master/assets/images/pkadvox.png?raw=true)
+
 ### CommunityDAO Features 
 
 ![micro-dao.png](https://github.com/stx-advox/land/blob/master/assets/images/micro-dao.png?raw=true)
@@ -94,6 +96,8 @@ body3:
 - Also users can create on-chain funding proposals, create microDAOs, execute funding to DAOs etc. 
 
 - A unique approach to AdvoxDAO commununity engagement, and quality support Stacks Grants programs!
+
+- ![advoxjrnys.png](https://github.com/stx-advox/land/blob/master/assets/images/advoxjrnys.png?raw=true)
 
 ### System Design Ethos
 
