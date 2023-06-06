@@ -65,7 +65,7 @@ body3:
 
 ![](https://paper-attachments.dropbox.com/s_D9C6AB1F126058A4F860A7F8545E04CE86C4CE3483D1C476A433A596927478BD_1648493089424_Hz+Gov.png)
 
-- As a user I should be able to start an issue by posting in [#active-issues](https://advox-dao.com/advoxgov/#active)
+- As a user I should be able to start an issue by posting in [#active-proposals](https://advox-dao.com/advoxgov/#active)
 
 - As a user I should be able to see a help text telling me what the process is gonna be like
 
@@ -98,6 +98,8 @@ body3:
 - A unique approach to AdvoxDAO commununity engagement, and quality support Stacks Grants programs!
 
 ![advoxjrnys.png](https://github.com/stx-advox/land/blob/master/assets/images/advoxjrnys.png?raw=true)
+
+[Twitter Thread & Demo](https://twitter.com/StacksAdvoxDAO/status/1619052833713848321?s=20)
 
 ### System Design Ethos
 
