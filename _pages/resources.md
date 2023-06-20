@@ -128,7 +128,8 @@ Please use the following guide to properly nudge your fellow members of advocate
 
 - This work could have more impact when timed and modified for important ecosystem happenings i.e events, exciting network updates of releases etc. 
 
-- This consideration may be best used to encourage topical & timely contributions in #did-a-thing. 
+- This consideration may be best used to encourage topical & timely contributions in #did-a-thing.
+
 
 # NEEDS BASED NUDGE
 
