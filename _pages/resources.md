@@ -103,6 +103,40 @@ body3:
 
 [Twitter Thread & Demo](https://twitter.com/StacksAdvoxDAO/status/1619052833713848321?s=20)
 
+
+### Didathing Team Guide
+
+Please use the following guide to properly nudge your fellow members of advocates in impactful directions in the ecosystem. Use the #props channel along with the guide below to reach out to them. 
+
+# IMPACT 
+
+- This work could have a bigger general impact if ____ was done. 
+
+- This work would have more impact if a specific entity or demographic knew it was useful. 
+
+- This consideration may be most useful when a given contribution in #did-a-thing is falling short of general impact desired for the Stacks community. 
+
+
+# SIMILARITY 
+
+- This work is similar to other contributions happening in the ecosystem and could be even more impactful as a team effort. 
+
+- This consideration may be most useful to encourage quality teams and avoid repeat efforts in #did-a-thing. 
+
+
+# TIMING
+
+- This work could have more impact when timed and modified for important ecosystem happenings i.e events, exciting network updates of releases etc. 
+
+- This consideration may be best used to encourage topical & timely contributions in #did-a-thing. 
+
+# NEEDS BASED NUDGE
+
+- This work is much needed or desired by the community and should be replicated by more individuals or collectives. 
+
+- This consideration may be most useful to encourage quality contributors & contribution paths in #did-a-thing. 
+
+
 ### System Design Ethos
 
 ![systemflows.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/systemflows.jpg?raw=true)'
