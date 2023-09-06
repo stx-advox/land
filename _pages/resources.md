@@ -87,6 +87,7 @@ body3:
 [See 5 min Walk through Here
 ](https://www.loom.com/share/4011761084f344b9a48bc97ffdffddb5?sid=6b260503-3e93-433d-863d-c5c73cc2bb03)
 
+
 | Step | Goal | Representatives Responsibilities | Members Responsibilities |
 |------|------|--------------------------------|--------------------------|
 | Proposal Ideas | Wolf Reps Collect Proposals (Ecosystem wide) | Wolf Reps Collect Proposals from advoӾDAO, Broader server, and Ecosystem. | Members first contact their Clan Rep, who then sends the proposal to Wolf Reps for further drafting. |
