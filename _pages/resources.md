@@ -88,15 +88,6 @@ body3:
 ](https://www.loom.com/share/4011761084f344b9a48bc97ffdffddb5?sid=6b260503-3e93-433d-863d-c5c73cc2bb03)
 
 
-| Step | Goal | Representatives Responsibilities | Members Responsibilities |
-|------|------|--------------------------------|--------------------------|
-| Proposal Ideas | Wolf Reps Collect Proposals (Ecosystem wide) | Wolf Reps Collect Proposals from advoӾDAO, Broader server, and Ecosystem. | Members first contact their Clan Rep, who then sends the proposal to Wolf Reps for further drafting. |
-| Review Proposal (Prelims) | Autonomous Decision-making | In review-proposal, One Wolf Rep posts Draft proposal. All Reps post summaries from their clan members dialogue in clan-channels. Updates to Draft are posted in review-proposal thread for cross-clan visibility. Female Turtle Rep moves the discussion into formal-proposal after sufficient dialogue. | Discuss the proposal in-depth in their 6 separate clan-channels. React with 👀 to activate thumbs up 👍 or down 👎 in Step 3. |
-| Consensus Decision | Gather Emoji Consensus | Reps & Members react with Emoji reactions (Thumbs Up👍 or Down👎) to ratify the proposal in formal-proposals. Reps remind members to react. | React with Emoji Decision Thumbs Up👍 or Down👎 to ratify the proposal in formal-proposals. |
-| Pass / Fail | Proposal is Ratified or Sent Back | Female Turtle Rep Initiates Final Consensus with Male Turtles & sets decision end date during Step 3. | Clan members ensure proposals are correctly passed or failed. |
-| Formal Deliberation | Final Decision, Final Objections | Only the 2 Wolf Reps + 2 Bear Reps update the proposal. If a rare chance for a final change is needed, its done in the formal-proposals thread. Turtle Reps observe and raise any objections. | Clans only observe and raise any objections in their clan-channels. |
-
-
 ### CommunityDAO Features 
 
 ![micro-dao.png](https://github.com/stx-advox/land/blob/master/assets/images/micro-dao.png?raw=true)
