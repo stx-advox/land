@@ -87,6 +87,7 @@ body3:
 [See 5 min Walk through Here
 ](https://www.loom.com/share/4011761084f344b9a48bc97ffdffddb5?sid=6b260503-3e93-433d-863d-c5c73cc2bb03)
 
+WITH OUR GOV TOOLS CURRENTLY DOWN PLEASE FOLLOW THE ABOVE DIAGRAM; MANUALLY MOVING THE PROPOSAL THROUGH THE FLOW.
 
 ### CommunityDAO Features 
 
