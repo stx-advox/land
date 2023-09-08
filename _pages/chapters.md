@@ -11,8 +11,8 @@ excerpt: "AdvoxDAO Chapters Cohort #1"
 feature_row2:
   - image_path: /assets/images/Advox_logo.png
     alt: "placeholder image 2"
-    title: "Cohort #1 Registration"
-    excerpt: 'We are excited to begin assisting you on your journey through the Stacks ecosystem! We’ve created an intuitive onboarding process, that we hope can help you in learning more about Stacks and discover the many parts of the powerful ecosystem. As such, you’ve been selected to participate in the first AdvoxDAO cohort of Stacks Chapters. 
+    title: "Cohort #2 Registration"
+    excerpt: 'We are excited to begin assisting you on your journey through the Stacks ecosystem! We’ve created an intuitive onboarding process, that we hope can help you in learning more about Stacks and discover the many parts of the powerful ecosystem. As such, you’ve been selected to participate in the second AdvoxDAO cohort of Stacks Chapters. 
 
 
 
