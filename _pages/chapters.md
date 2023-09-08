@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Metaverse.png 
-excerpt: "AdvoxDAO Chapters Cohort #1"
+excerpt: "AdvoxDAO Chapters Cohort #2"
 feature_row2:
   - image_path: /assets/images/Advox_logo.png
     alt: "placeholder image 2"
