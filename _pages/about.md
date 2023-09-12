@@ -29,6 +29,8 @@ You may notice the beautiful art of this site, It can be found on the [DaDA Art 
 **Turtle, Wolf, & Bear Relationship, Governance, & Sustainability**
 
 - Important to our governance & bottom up organization efforts is our direct dialogue with a historical indigenous council, The Kanienkehaka (Mohawk) of The Five Nations Longhouse Confederacy. Early settler colonists were exposed to their matrilineal protocols of organization, which catalyzed modern concepts and language of Democratic values, Federalism, three branches of government & much more.
+  
+- More on how this relates to Open SOurce commons commons based system design of stacks advocates can be found [here](https://generativejustice.org/publications/) in the work of the Generative Justice Research group out of Rennslaer Polytechnic Institute and more recently University of Michigan. 
 
 - We have rare access to these protocols in pre-colonial form. We realize there was an entire culture of checks & balances omitted from our modern systems of social organization & representation, precisely due to lack of peaceful dialogue with Native nations.
 
